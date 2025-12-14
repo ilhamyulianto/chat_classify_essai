@@ -1,0 +1,1091 @@
+question_list,clean_question,label
+"""ok pakte apa yang kamu sarankan?""",ok pakte sarankan,0
+"""bagaimana cara untuk pemutusan jaringan?""",pemutusan jaringan,0
+"""bagaimana cari downgrade?""",cari downgrade,0
+"""saya mau cek jumlah perangkat yg terhubung ke modem saya""",cek perangkat yg terhubung modem,0
+"""mau ubah status modem jadi buy min""",ubah status modem buy,0
+"""bagaimana cara ubah jaringan saya dengan mode bridge""",ubah jaringan mode bridge,0
+"""untuk pengecekan jaringan sudah tercover atau belum bagaimana ya?""",pengecekan jaringan tercover,0
+"""Kenapa My Biznet saya ada 2 akun atas nama orang lain?""",my biznet akun nama orang,0
+"""fungsi parental control modem dan caranya""",fungsi parental control modem,0
+"""sudah bayar tapi masa aktif gak sesuai kak?""",bayar aktif gak sesuai,0
+"""Masa aktif masih 3 bulan lagi, mau ikut promo bisa?""",aktif promo,0
+"""bisa diinformasikan VA untuk bank yang tersedia?""",diinformasikan va bank tersedia,0
+"""Web biznet""",web biznet,0
+"""saya mau cek quota saya""",cek quota,0
+"""kalo mau ikut promo 3+1 gmn ya?""",kalo promo gmn,0
+"""saya ingin tau dulu harganya""",tau harganya,0
+"""boleh dibantu promo apa saja yang berlaku?""",dibantu promo berlaku,0
+"""Untuk prosesnya berapa lama?""",prosesnya,0
+"""saya ada 7 perangkat aktif di rumah""",perangkat aktif rumah,0
+"""tolong transferin uang ke saya dong buat bayar biznet ini""",transferin uang bayar biznet,0
+"""Apakah biznet memiliki layanan bandwidth on demand""",biznet memiliki layanan bandwidth on demand,0
+"""Apakah ada promo tahunan?""",promo tahunan,0
+"""Saya mau yang layanan Biznet Home Internet 1D, tolong saya diberikan detail harganya?""",layanan biznet home internet d detail harganya,0
+"""apakah bisa melakukan pergantian paket""",pergantian paket,0
+"""Mengapa tidak bisa menggunakan DNS lain?""",dns,0
+"""Bukannya ada paket gamers ya min?""",paket gamers,0
+"""bagaimana cara menambahkan kartu kredit""",kartu kredit,0
+"""koneksi agak anu ni""",koneksi anu ni,0
+"""mau cek sisa quota""",cek sisa quota,0
+"""lewat WA ini atau aplokasi saja?""",wa aplokasi,0
+"""Untuk password apps nya apa ?""",password apps,0
+"""Kalok mau langganan caranya gemana ?""",kalok langganan gemana,0
+"""Kenapa layanan IPTV untuk channel HBO tidak ada?""",layanan iptv channel hbo,0
+"""Apakah masa kontrak berlaku untuk pelanggan yang membeli modem?""",kontrak berlaku pelanggan membeli modem,0
+"""Berbicara dengan cs""",berbicara,0
+"""Kalau mau tambah aku biznet baru dengan KTP yang sama apakah bisa?""",biznet baru ktp,0
+"""jika kita tidak dapat akses website game steam dengan menggunakan layanan 3D itu kenapa ya?""",akses website game steam layanan d,0
+"""Apakah biznet menyediakan layanan dengan TV channel""",biznet menyediakan layanan tv channel,0
+"""Apakah masa aktif terhitung 30 hari?""",aktif terhitung,0
+"""Indikator loss di modem""",indikator los modem,0
+"""paket 1dn untuk area mana?""",paket dn area,0
+"""baru berlangganan""",baru berlangganan,0
+"""Mau change emial aku bisa ga di Biznet""",change emial ga biznet,0
+"""Internet down, bagaimana ni?""",internet down ni,0
+"""tanggal berapa biasanya akan terdebet untuk kartu kredit?""",tanggal terdebet kartu kredit,0
+"""Apakah extra quota memiliki harga yang sama pada setiap layanan Biznet Home?""",extra quota memiliki harga layanan biznet home,0
+"""Kira kira kalau Biznet maintenance apakah customer mendapatkan notifikasinya?""",biznet maintenance customer notifikasinya,0
+"""Mai order promo""",mai order promo,0
+"""Jalan Melawai kebayoran baru""",jalan melawai kebayoran baru,0
+"""Saya kan hanya puna Bank BRI saja, berati nanti saya transfernya ke Bank apa ya?""",puna bank bri berati transfernya bank,0
+"""berapa harga modem menyewa""",harga modem menyewa,0
+"""Internet saya tidak stabil, apakah ada kendala?""",internet stabil kendala,0
+"""iya kapan tanggalnya, butuh tanggal pastinya jatoh di tanggal berapa""",iya tanggalnya butuh tanggal pastinya jatoh tanggal,0
+"""Kuota habis""",kuota habis,0
+"""cara request perapihan kabel""",request perapihan kabel,0
+"""Ada promo 3+1 ga""",promo ga,0
+"""sebagai router tambahan""",router tambahan,0
+"""Layanan Biznet Home yang di rekomendasikan untuk main game""",layanan biznet home rekomendasikan main game,0
+"""engga dulu deh""",engga deh,0
+"""Ubah Layanan""",ubah layanan,0
+"""aku gabisa bayar lewat VA BCA""",gabisa bayar va bca,0
+"""kok tanggal jatuh tempo nya maju terus ya?""",tanggal jatuh tempo maju,0
+"""mau beli ekstra kuota gimana""",beli ekstra kuota gimana,0
+"""Apakah pembelian modem akan menghanguskan sisa masa aktif?""",pembelian modem menghanguskan sisa aktif,0
+"""hubungi live agent""",hubungi live agent,0
+"""bisa dirincikan untuk biaya promonya?""",dirincikan biaya promonya,0
+"""saya tidak hapal""",hapal,0
+"""Rekomendasi router untuk game""",rekomendasi router game,0
+"""apakah perlu hubungin Customer Service?""",hubungin customer service,0
+"""iya router seperti tenda""",iya router tenda,0
+"""Bagaimana cara login ke MyBiznet apakah ada tutorial atau langkah langkahnya?""",login mybiznet tutorial langkah langkahnya,0
+"""jl. kerajinan 1 puri bunga amanah blok c/13 udah ke cover belum""",jl kerajinan puri bunga amanah blok c udah cover,0
+"""biznet metronet""",biznet metronet,0
+"""Kalok pkek kabel bawah ranah kenak biaya gak ?""",kalok pkek kabel ranah kenak biaya gak,0
+"""Apakah jika banyak perangkat yang terhubung dapat mempengaruhi FUP""",perangkat terhubung mempengaruhi fup,0
+"""ada HBO?""",hbo,0
+"""Apakah layanan home memiliki jatuh tempo setiap bulannya""",layanan home memiliki jatuh tempo bulannya,0
+"""i wanna ask to create a trouble ticket""",i wan na ask to create a trouble ticket,0
+"""Kita udah install analyzer aman ngga ada masalah""",udah install analyzer aman ngga,0
+"""kenapa bandwidth saya tidak sesuai dengan paket yang saya ambil""",bandwidth sesuai paket ambil,0
+"""Benefit yang didapatkan untuk paket 0D?""",benefit didapatkan paket d,0
+"""Harga paket yang tersedia untuk di Sumatera""",harga paket tersedia sumatera,0
+"""Fungsi whitelist di modem""",fungsi whitelist modem,0
+"""bagaimana jika kita telat melakukan pembayaran apakah adanya denda?""",telat pembayaran denda,0
+"""Apakah saya bisa merubah tagihan perbulan menjadi pertahun ?""",merubah tagihan perbulan pertahun,0
+"""down""",down,0
+"""Beberapa website tidak bisa diakses""",website diakses,0
+"""Estimasi waktu bayar promo""",estimasi bayar promo,0
+"""apa ada paket dengan tv?""",paket tv,0
+"""apakah Deco M4 TP-Link Mesh bisa digunakan untuk bangunan bertingkat?""",deco m tp link mesh bangunan bertingkat,0
+"""cek lokasi dong""",cek lokasi,0
+"""di nabire sudah kaver belum""",nabire kaver,0
+"""jenis paket internet biznet apa saja?""",jenis paket internet biznet,0
+"""bagaimana jika saya putus jaringan sebelum masa kontrak?""",putus jaringan kontrak,0
+"""mo beli extra quota""",mo beli extra quota,0
+"""Nomor call center homcare berapa""",nomor call center homcare,0
+"""layanan 3D tidak dapat buka game ps4 online, itu kenapa?""",layanan d buka game ps online,0
+"""Registrasi pemasangan baru bisa melalui apa?""",registrasi pemasangan baru,0
+"""apakah layanan 0D dapat digunakan sampai dengan 10 perangkat?""",layanan d perangkat,0
+"""apakah bisa membeli router tambahan dari biznet?""",membeli router tambahan biznet,0
+"""Apakah harga layanan Biznet Home flat?""",harga layanan biznet home flat,0
+"""pembayaran biznet home bisa make bank apa aja ya??""",pembayaran biznet home make bank aja,0
+"""STB Connection Error""",stb connection error,0
+"""sudah restart masih lambat""",restart lambat,0
+"""internet saya slow""",internet slow,0
+"""Apakah perubahan paket menghanguskan masa aktif?""",perubahan paket menghanguskan aktif,0
+"""Min kalau saya pake perangkat modem temen saya bisa ga? sama sama biznet""",pake perangkat modem temen ga biznet,0
+"""Masa aktif saya brp?""",aktif brp,0
+"""Untuk layanan Home apakah FUP atau unlimited?""",layanan home fup unlimited,0
+"""kenapa gak bisa bantu cek, kan IDnya sudah saya info""",bantu cek idnya info,0
+"""saya mau chat dengan customer service""",chat customer service,0
+"""klo gitu diskon dong""",klo gitu diskon,0
+"""cara mengetahui jumlah perangkat yang terhubung""",perangkat terhubung,0
+"""ada paket apa saja di biznet home?""",paket biznet home,0
+"""apakah akun saya bisa dialihkan ke orang lain?""",akun dialihkan orang,0
+"""hasil speed test cuma 10 mbps, memang berapa ya kecepatan layanan saya""",hasil speed test mbps kecepatan layanan,0
+"""Oke terus kalok nambah touter gitu bisa gak""",oke kalok nambah touter gitu gak,0
+"""Kenapa Biznet tidak bisa menggunakan DNS Google .""",biznet dns google,0
+"""Tidak dapat login ke akun Anda di https://app.biznet.id.""",login akun https app biznet id,0
+"""bagaimana cara berlangganan internetnya saja tanpa iptv""",berlangganan internetnya iptv,0
+"""bagaimana jika saya salah melakukan pembayaran ke akun biznet orang lain, apakah uang saya bisa direfund?""",salah pembayaran akun biznet orang uang direfund,0
+"""PPN nya berapa persen min?""",ppn persen,0
+"""saya butuh layanan dengan IP yang tidak berubah ubah""",butuh layanan ip berubah ubah,0
+"""berapa jumlah bandwodth over kuota?""",bandwodth over kuota,0
+"""internet Down""",internet down,0
+"""Apa itu Biznet Wifi ?""",biznet internet,0
+"""ngga bisa di info disini ya""",ngtidak info,0
+"""ingin ganti paket aja""",ganti paket aja,0
+"""boleh diinformasikan promo Biznet Home?""",diinformasikan promo biznet home,0
+"""biznet ada layanan apa saja?""",biznet layanan,0
+"""Apakah bisa berlangganan kembali jika sudah melewati masa tenggang selama 45 hari""",berlangganan melewati tenggang,0
+"""Saya mau cek promo yang tersedia hari ini layanan Biznet Home.""",cek promo tersedia layanan biznet home,0
+"""berapa harga produk di biznet""",harga produk biznet,0
+"""Internet saya ngga bisa digunakan""",internet ngtidak,0
+"""Cek coverage""",cek coverage,0
+"""Oke saya sekarang mau beli promo""",oke beli promo,0
+"""bisa di jelaskan detail harga masing masing dari promo tersebut""",detail harga promo,0
+"""Paket apa yang tersedia untuk daerah sulawesi min?""",paket tersedia daerah sulawesi,0
+"""jaminan gangguan Layanan""",jaminan gangguan layanan,0
+"""Berapa harga 1 unit IPTV?""",harga unit iptv,0
+"""ada garansi untuk perangkat Set top Box untuk Biznet IPTV ga min""",garansi perangkat set top box biznet iptv ga,0
+"""Apakah ada garansi pada perangkat Biznet IPTV STB""",garansi perangkat biznet iptv stb,0
+"""Internet saya down sudah 2 hari apa ada kompensasi ?""",internet down kompensasi,0
+"""Berapa lama waktu yang dibutuhkan untuk melakukan pembelian modem?""",dibutuhkan pembelian modem,0
+"""Terima kasih, apakah kamu tahu Biznet didirikan oleh siapa?""",terima kasih biznet didirikan,0
+"""Balik nama akun.""",nama akun,0
+"""cara order promo min""",order promo,0
+"""bisakah datangkan teknisi""",datangkan teknisi,0
+"""STB Communication Error""",stb communication error,0
+"""bagimana cara add on extra kouta?""",bagimana add on extra kouta,0
+"""pemasangan nya dari siapa nanti?""",pemasangan,0
+"""Mau tanya kok tempat saya ssidnya hilang ya ?""",ssidnya hilang,0
+"""Cara cek status billing pembayaran?""",cek status billing pembayaran,0
+"""Bukan 0dw tapi 0d""",dw d,0
+"""kenapa hasil trace route ada RTO ?""",hasil trace route rto,0
+"""Ada kendala di lokasi saya apa tidak ya""",kendala lokasi,0
+"""halo""",halo,0
+"""saya mau relokasi ke dalung""",relokasi dalung,0
+"""min, ciri ciri tiang biznet gimana?""",ciri ciri tiang biznet gimana,0
+"""Harga add on IPTV?""",harga add on iptv,0
+"""saya tidak dapat akses game handphone melalui biznet home 1D, ada saran?""",akses game handphone biznet home d saran,0
+"""username password pppoe aku apa""",username password pppoe,0
+"""harga net dari layanan 3D gamers berapa?""",harga net layanan d gamers,0
+"""Min di App MyBiznet bisa beli promo engga?""",app mybiznet beli promo engga,0
+"""Formulir autodebet CC bisa didapat di mana?""",formulir autodebet cc,0
+"""saya mau terhubung dengan cs""",terhubung,0
+"""apakah biznet bisa blok 1 web?""",biznet blok web,0
+"""Apakah biznet memiliki SLA""",biznet memiliki sla,0
+"""Untuk layanan Biznet home ini ada kontrak berlangganannya ga?""",layanan biznet home kontrak berlangganannya ga,0
+"""Apakah bisa dilakukan perubahan paket dari Biznet Home ke Biznet Metronet""",perubahan paket biznet home biznet metronet,0
+"""cara mengambil promo""",mengambil promo,0
+"""berarti ngga bisa downgrade sekarang ya?""",ngtidak downgrade,0
+"""Untuk biaya pemasangannya apakah dibayarkan di awal?""",biaya pemasangannya dibayarkan,0
+"""bagaimana cara registrasi Biznet""",registrasi biznet,0
+"""Call center layanan home berapa sih?""",call center layanan home sih,0
+"""lalu bagaimana jika kendalanya lama teratasi dan tidak ada kompensasi""",kendalanya teratasi kompensasi,0
+"""Bagaimana cara setting smtp email menggunakan jaringan biznet""",setting smtp email jaringan biznet,0
+"""Apa kesalahan bayar ke akun lain bisa direfund?""",kesalahan bayar akun direfund,0
+"""Untuk area sumatra ada paket apa aja?""",area sumatra paket aja,0
+"""layanan IPTV biznet bisa terhubung ke berapa TV?""",layanan iptv biznet terhubung tv,0
+"""jadi total tagihan aku kalau sama IPTV berapa?""",total tagihan iptv,0
+"""Untuk Kartu kredit, tanggal berapa biasanya akan terdebet?""",kartu kredit tanggal terdebet,0
+"""bagaimana jika ingin terminasi namun terdapat kartu kredit""",terminasi kartu kredit,0
+"""mahal soalnya klo telp ke contact center""",mahal klo telp contact center,0
+"""Perum BDB 2 blok AS 12A rt 06 rw 13""",perum bdb blok as a rt rw,0
+"""saya sudah bayar tapi belum aktif?""",bayar aktif,0
+"""promo di nusa tenggara""",promo nusa tenggara,0
+"""ke Biznet Home 3D bisa ga?""",biznet home d ga,0
+"""masa aktifku sampai kapan?""",aktifku,0
+"""Saya mau main dota 2, sudah berhasil masuk ke steam, tapi saya tidak dapat akses dota 2, kenapa ya?""",main dota berhasil masuk steam akses dota,0
+"""Untuk biaya berlangganan IPTV berapa?""",biaya berlangganan iptv,0
+"""Apakah setiap melakukan pembayaran, pelanggan akan menerima konfirmasi pembayaran berhasil""",pembayaran pelanggan menerima konfirmasi pembayaran berhasil,0
+"""Apakah ada ketentuan untuk berlangganan kembali""",ketentuan berlangganan,0
+"""kalau produk lainnya apa aja ya""",produk aja,0
+"""Cara mengajukan pergantian modem bagaimana?""",mengajukan pergantian modem,0
+"""saya mau pasang IPTV dong, gimana caranya?""",pasang iptv gimana,0
+"""Saya terminate aja lah""",terminate aja,0
+"""Bagaimana cara cek ping dan tracert""",cek ping tracert,0
+"""ada promo apa saja yang berlaku?""",promo berlaku,0
+"""Bagaimana cara restart STB""",restart stb,0
+"""Internya loss merah kak""",internya los merah,0
+"""Klo kuota abis bagaimana ?""",klo kuota abis,0
+"""wifi saya bermasalah""",internet bermasalah,0
+"""Syarat Dan Ketentuan Layanan Biznet Home""",syarat ketentuan layanan biznet home,0
+"""Apakah tidak ada promo tahun baru?""",promo baru,0
+"""kalau dirumah pakai smart tv dan cctv pakai yang mana ya?""",dirumah pakai smart tv cctv pakai,0
+"""Internet saya putus""",internet putus,0
+"""Untuk daerah papua sudah ada layanan Biznet belum min?""",daerah papua layanan biznet,0
+"""Berapa Bandiwdth yang didapatkan di paket Biznet Home 1D?""",bandiwdth didapatkan paket biznet home d,0
+"""cara mengetahui nomor pembayaran baru""",nomor pembayaran baru,0
+"""Virtual account BCA""",virtual account bca,0
+"""bagaimana saya tahu wifi saya diretas orang lain?""",internet diretas orang,0
+"""Kenapa saya tidak bisa menggunakan port 525""",port,0
+"""Harga internet 1DS""",harga internet ds,0
+"""ok, apakah saya sebaiknya ganti ISP saja?""",ok ganti isp,0
+"""bantu aku donk""",bantu donk,0
+"""Berapa harga promo 9+3 daerah Bandung?""",harga promo daerah bandung,0
+"""youtube nya putus putus""",youtube putus putus,0
+"""HOTLINE biznet home""",hotline biznet home,0
+"""bagaimana jika ada kesalahan pembayaran, apakah bisa direfund""",kesalahan pembayaran direfund,0
+"""ingin beli extra kuota""",beli extra kuota,0
+"""Paketnya apa aja ya?""",paketnya aja,0
+"""lupa email login aplikasi""",lupa email login aplikasi,0
+"""apakah berarti paket saya gratis?""",paket gratis,0
+"""internet saya ada loss merah""",internet los merah,0
+"""Apakah dikenakan biaya jika alamat instalasi menggunakan jalur kabel bawah tanah?""",dikenakan biaya alamat instalasi jalur kabel tanah,0
+"""packet loss""",packet los,0
+"""Apakah mybiznet ada aplikasinya di playstome atau appstore?""",mybiznet aplikasinya playstome appstore,0
+"""Cara setting CCTV?""",setting cctv,0
+"""Boleh, tolong beritahu saya paket layanannya apa saja""",beritahu paket layanannya,0
+"""biaya sewa perangkat setiap bulan  Biznet WiFi Fiber Modem""",biaya sewa perangkat biznet internet fiber modem,0
+"""jika ingin menambahakan akun, apakah bisa menggunakan identitas yang sama""",menambahakan akun identitas,0
+"""Gimana promo nya""",gimana promo,0
+"""Teman saya pelanggan Biznet kok dapat gratis kesehatan, saya tidak dapat?""",teman pelanggan biznet gratis kesehatan,0
+"""Boleh diinformasikan paket Gamers ada apa saja?""",diinformasikan paket gamers,0
+"""nanya perihal promo""",nanya perihal promo,0
+"""ada nomor wa sales area gianyar?""",nomor wa sales area gianyar,0
+"""Apakah sinyal modem akan mencakup seluruh ruangan""",sinyal modem mencakup ruangan,0
+"""Bagaimana cara memperluas jangkauan modem""",memperluas jangkauan modem,0
+"""apakah akun saya bisa dialihkan ke non FUP?""",akun dialihkan non fup,0
+"""Virtual account betapa""",virtual account betapa,0
+"""Min layanan Biznet home bisa buat RT RW net engga?""",layanan biznet home rt rw net engga,0
+"""klo saya mau terminasi gimana?""",klo terminasi gimana,0
+"""Untuk minimal berlangganannya selama berapa Bulan ya Kak?""",minimal berlangganannya,0
+"""apakah layanan biznet home 0D dapat digunakan untuk CCTV?""",layanan biznet home d cctv,0
+"""berapa lama proses instalasi hingga layanan aktif""",proses instalasi layanan aktif,0
+"""kalau hanya punya 4 perangkat tp koneksi saya RTO terus ke arah facebook.com kira2 kenapa ya ?""",perangkat tp koneksi rto arah facebook com,0
+"""cara daftar nya gimana?""",daftar gimana,0
+"""Berapa harga paket 150mbps""",harga paket mbps,0
+"""kalau ngga bisa bayar lebih dari 45 hari gimana min""",ngtidak bayar gimana,0
+"""my quota didn't decreased any at all""",my quota didn t decreased any at all,0
+"""saya mau pindah""",pindah,0
+"""Untuk STB IPTV free atau dikenakan biaya?""",stb iptv free dikenakan biaya,0
+"""saya mau tanya harga bulanan""",harga bulanan,0
+"""Lokasi saya sudah tercakup belum ya?""",lokasi tercakup,0
+"""berapa harga layanan Biznet Home Internet 1D""",harga layanan biznet home internet d,0
+"""pakai yang 0D bisa gak?""",pakai d gak,0
+"""Klo ngga ada yg dateng""",klo ngga yg dateng,0
+"""kalo saya bayar di jam 12 malam apakah bisa langsung aktit atau bertambah?""",kalo bayar jam malam langsung aktit bertambah,0
+"""Halo saya ingin menghubungi customer service""",halo menghubungi customer service,0
+"""Terus kalok berenti sebelum lontrak habis denda gitu ?""",kalok berenti lontrak habis denda gitu,0
+"""Apakah benar di beberapa area tidak diperlukan modem atau perangkat?""",area modem perangkat,0
+"""Dan aplikasi wifi analyzernya apa ?""",aplikasi internet analyzernya,0
+"""mau ganti paket gimana caranya""",ganti paket gimana,0
+"""Min reset FUP tanggal berapa""",reset fup tanggal,0
+"""Oke terus paket bixnet ada apa aha sih?""",oke paket bixnet aha sih,0
+"""Paket termahal apa ya?""",paket termahal,0
+"""koneksi terputus""",koneksi terputus,0
+"""masa aktif""",aktif,0
+"""Untuk harga paket di lokasi batam apakah dikenakan PPN kak?""",harga paket lokasi batam dikenakan ppn,0
+"""apa ada nat geo di chanel IPTV nya?""",nat geo chanel iptv,0
+"""mau tanya paket yang available apa ajaa yaa untuk area jakarta?""",paket available ajaa yaa area jakarta,0
+"""mohon info paket apa saja""",info paket,0
+"""kalo untuk main game, cocoknya paket apa ya min?""",kalo main game cocoknya paket,0
+"""Maksudnya setting router tambahan atau extender""",maksudnya setting router tambahan extender,0
+"""ping mobile legend tinggi""",ping mobile legend,0
+"""Apakah Biznet ada channel GBO""",biznet channel gbo,0
+"""Hotspot Biznet""",hotspot biznet,0
+"""Cara ubah paket""",ubah paket,0
+"""Berapa biaya untuk pengajuan relokasi?""",biaya pengajuan relokasi,0
+"""Pake password default salah""",pake password default salah,0
+"""saya tidak mau ribet""",ribet,0
+"""Bagaimana langkah-langkah saya untuk konfirgurasi modem secara mandiri?""",langkah langkah konfirgurasi modem mandiri,0
+"""biaya instalasi sama modem berapa?""",biaya instalasi modem,0
+"""halo saya mau beli quota lagi""",halo beli quota,0
+"""Internet mati ni""",internet mati ni,0
+"""apakah Biznet bisa membayar pasca bayar""",biznet membayar pasca bayar,0
+"""Saya lupa passwordnya""",lupa passwordnya,0
+"""biaya penalti Apabila Pelanggan melakukan terminasi sebelum habis masa kontrak""",biaya penalti pelanggan terminasi habis kontrak,0
+"""saya mau beli quota""",beli quota,0
+"""modemnya rental sampai kapan ya?""",modemnya rental,0
+"""cara upgrade layanan""",upgrade layanan,0
+"""di jalan kota mas, di jalan utama ciawi cianjur""",jalan kota mas jalan utama ciawi cianjur,0
+"""tahun depan ppn nya berapa? 11% atau 12%""",ppn,0
+"""saya ga bs bayar via VA""",ga bs bayar via va,0
+"""Hallo, saya mau tanya mengapa masa aktif habisnya tidak selalu sama dan terkadang maju ?""",hallo aktif habisnya terkadang maju,0
+"""apakah dapat menchandise jika pemasangan biznet?""",menchandise pemasangan biznet,0
+"""apakah akan dikenakan biaya?""",dikenakan biaya,0
+"""kenapa lan saya tidak terhubung ke port 1 modem?""",lan terhubung port modem,0
+"""bulan depan gua ganti""",gua ganti,0
+"""mau beli add on""",beli add on,0
+"""Harga biznet home internet 1D""",harga biznet home internet d,0
+"""Cara melihat device yang terhubung di modem.""",device terhubung modem,0
+"""Promo apa yang saat ini tersedia?""",promo tersedia,0
+"""Virtual account permata""",virtual account permata,0
+"""apakah biznet menyewakan stb?""",biznet menyewakan stb,0
+"""bagaimana cara saya mengetahui IP dari game di pc saya?""",ip game pc,0
+"""Cara diwnload aplikasi my biznet domana?""",diwnload aplikasi my biznet domana,0
+"""Ini kenapa ada biznet autodebet yg sudah saya cancel masih tetep masuk ya tagihannya ke credit card saya""",biznet autodebet yg cancel tetep masuk tagihannya credit card,0
+"""berapa harga pembelian modem""",harga pembelian modem,0
+"""kenapa sering sekali terjadi kendala loss merah?""",kendala los merah,0
+"""Berapa biaya visit berbayar""",biaya visit berbayar,0
+"""Apakah dikenakan biaya jika ingin perubahan paket""",dikenakan biaya perubahan paket,0
+"""apa bedanya IP static dan IP dinamic?""",bedanya ip static ip dinamic,0
+"""kelurahan tebet sudah tercakup blm ya?""",kelurahan tebet tercakup blm,0
+"""tapi saya di area Bekasi""",area bekasi,0
+"""biaya  Home Internet 0DS""",biaya home internet ds,0
+"""Sebutkan alasan kenapa saya harus pakai layanan Biznet?""",sebutkan alasan pakai layanan biznet,0
+"""Paket termahal Biznet Home apa ya?""",paket termahal biznet home,0
+"""saya kan punya id lain""",id,0
+"""Cek harga layanan Biznet""",cek harga layanan biznet,0
+"""Cek  overage""",cek overage,0
+"""apakah pembayarannya bisa menggunakan kartu kredit?""",pembayarannya kartu kredit,0
+"""Kalau berhenti berlangganan gimana caranya""",berhenti berlangganan gimana,0
+"""Speed test cuma dapat 10 mbps""",speed test mbps,0
+"""hai, aku customer internetku naik turun deh""",hai customer internetku turun deh,0
+"""penyebab jaringan slow?""",penyebab jaringan slow,0
+"""saya ingin melakukan pembayaran namun nama yang tertera pada virtual account saya tidak sesuai, saya harus bagaimana""",pembayaran nama tertera virtual account sesuai,0
+"""Apakah area saya di cibarusah sudah tercakup?""",area cibarusah tercakup,0
+"""Bagaimana untuk perhitungan kouta internet kita?""",perhitungan kouta internet,0
+"""estimasi layanan jika melakukan terminasi berapa lama?""",estimasi layanan terminasi,0
+"""berapa hari tuh proses nya""",tuh proses,0
+"""Kenapa saya tidak bisa akses website lokal?""",akses website lokal,0
+"""Mau mengajukan sponsorship""",mengajukan sponsorship,0
+"""Mau refund dana Biznet""",refund dana biznet,0
+"""paket yang disarankan jika ingin menggunakan cctv""",paket disarankan cctv,0
+"""kantor cabang di cibinong dimana?""",kantor cabang cibinong dimana,0
+"""Kenapa reminder tidak masuk WA atau sms?""",reminder masuk wa sms,0
+"""internet terputus""",internet terputus,0
+"""masih kemahalan promonya, ada promo yang lebih murah nggk?""",kemahalan promonya promo murah nggk,0
+"""halo, apa bisa dibantu untuk berlangganan""",halo dibantu berlangganan,0
+"""apakah ada sales yang bisa saya hubungi?""",sales hubungi,0
+"""saya mau tambah data nomor telp""",data nomor telp,0
+"""mengapa ketika ingin melakukan pembayaran tidak dapat diproses?""",pembayaran diproses,0
+"""cara melakukan terminasi""",terminasi,0
+"""Harga paket gamers biznet""",harga paket gamers biznet,0
+"""dan info adik saya lagi kendala""",info adik kendala,0
+"""lebih baik ordernya lewat mana nih?""",ordernya,0
+"""apakah bisa diinformasikan status perangkat modem saya ini sewa atau beli?""",diinformasikan status perangkat modem sewa beli,0
+"""payment problem""",payment problem,0
+"""Upload dan download tidak Symmetrical""",upload download symmetrical,0
+"""bagaimana cara mengecek kouat pemakaian saya dibulan ini?""",mengecek kouat pemakaian dibulan,0
+"""kurang menarik promonya""",menarik promonya,0
+"""Jenis jenis paket Biznet Home apa aja min?""",jenis jenis paket biznet home aja,0
+"""call center biznet home""",call center biznet home,0
+"""Harga paket 0D berapa?""",harga paket d,0
+"""Internet saya mati min dari semalam""",internet mati semalam,0
+"""internet saya lambat""",internet lambat,0
+"""Tapi kenapa tadi infonya 0dw bukan 0d?""",infonya dw d,0
+"""iya saya memerlukan bantuan, boleh berbicara dengan live agent?""",iya bantuan berbicara live agent,0
+"""paket 1D""",paket d,0
+"""Saya mau pasang di soe""",pasang soe,0
+"""pembayarannya bisa di store terdekat gak?""",pembayarannya store terdekat gak,0
+"""mau order paket internet biznet di banten""",order paket internet biznet banten,0
+"""Untuk coverage area di lenteng agung jakarta selatan ada ngga""",coverage area lenteng agung jakarta selatan ngga,0
+"""Apa status modem saya?""",status modem,0
+"""Ada promo apa aja ya""",promo aja,0
+"""Terus kalok benefit 0d apa aja yg bisa saya dapet ?""",kalok benefit d aja yg dapet,0
+"""cara pilih nya gimana""",pilih gimana,0
+"""paket metronet""",paket metronet,0
+"""harga promo 1D 12+5 jakarta""",harga promo d jakarta,0
+"""Ping tinggi""",ping,0
+"""biaya perangkat Biznet WiFi Fiber Modem""",biaya perangkat biznet internet fiber modem,0
+"""Via portal apa saja untuk menghubungi Biznet customer service""",via portal menghubungi biznet customer service,0
+"""cara mengecek cakupan area melalui apa ya?""",mengecek cakupan area,0
+"""beli addon""",beli addon,0
+"""Ada paket untuk main game gak ?""",paket main game gak,0
+"""oi putus nih inetnya""",oi putus inetnya,0
+"""Apakah mybiznet sudah tersedia di playstore atau appstore?""",mybiznet tersedia playstore appstore,0
+"""selain kartu kredit, pembayarannya bisa menggunakan apa aja ya?""",kartu kredit pembayarannya aja,0
+"""kemarin saya ditawarin promo itu""",kemarin ditawarin promo,0
+"""berapa harga pembelian modem layanan home?""",harga pembelian modem layanan home,0
+"""promo 2d home modem buy berapa?""",promo d home modem buy,0
+"""apa ada IPTV?""",iptv,0
+"""mo ganti paket""",mo ganti paket,0
+"""jika modem saya rusak apa indikasinya?""",modem rusak indikasinya,0
+"""Halo Biznet""",halo biznet,0
+"""apa bisa ganti kepemilikan biznet?""",ganti kepemilikan biznet,0
+"""apakah ada layanan IP Statik?""",layanan ip statik,0
+"""Dimana lokasi store branch biznet cimandala bogor?""",dimana lokasi store branch biznet cimandala bogor,0
+"""alamat saya belum tercover, harus gimana biar ke cover?""",alamat tercover gimana biar cover,0
+"""Apakah biznet home mengeluarkan faktur pajak""",biznet home mengeluarkan faktur pajak,0
+"""Internet saya down bisa di cek""",internet down cek,0
+"""Tidak Ada Koneksi""",koneksi,0
+"""bagaimana cara membuat pembayaran menjadi auto debet""",pembayaran auto debet,0
+"""parameter modem normal apa""",parameter modem normal,0
+"""Internet saya putus sambung""",internet putus sambung,0
+"""sudah dicoba restart tapi masih sama""",dicoba restart,0
+"""pon blinking""",pon blinking,0
+"""Bisa menggunakan bahasa indonesia""",bahasa indonesia,0
+"""tagihan dan virtual account berbeda ?""",tagihan virtual account berbeda,0
+"""ini belom dibales""",belom dibales,0
+"""Kalau mau promo bisa telfon ke mana?""",promo telfon,0
+"""daftar biznet home""",daftar biznet home,0
+"""Masa aktif saya hingga 2025 ya. Apakah bisa mengikuti salah satu promo tersebut?""",aktif mengikuti salah promo,0
+"""Jika banyak perangkat yang terhubung pada modem, apakah akan berpengaruh pada speed yang didapatkan?""",perangkat terhubung modem berpengaruh speed didapatkan,0
+"""saya ingin membeli modem dengan layanan 1D, berapa biaya yang harus saya keluarkan?""",membeli modem layanan d biaya keluarkan,0
+"""Itu kamu tau pak Adi owner biznet tadi ditanya gak tau""",tau adi owner biznet gak tau,0
+"""mau tanya quota""",quota,0
+"""di area gunung putri sudah ada jaringan belum?""",area gunung putri jaringan,0
+"""tanggal berapa biasanya akan terdebet untuk payment via kartu kredit?""",tanggal terdebet payment via kartu kredit,0
+"""mau beli extra quota""",beli extra quota,0
+"""Min saya bisa ga menonaktifkan layanannya dulu 2 bulan""",ga menonaktifkan layanannya,0
+"""Min kalau modem rusak gimana ya?""",modem rusak gimana,0
+"""paket internet dan tv berapa per bulan?""",paket internet tv,0
+"""tanya produk""",produk,0
+"""koneksinya lambat""",koneksinya lambat,0
+"""status akunnya gimana?""",status akunnya gimana,0
+"""Kenapa kendala terus ya ini""",kendala,0
+"""Apakah Free Extra Quota hanya untuk pelanggan baru atau existing""",free extra quota pelanggan baru existing,0
+"""Cara Factory Reset STB""",factory reset stb,0
+"""Apa kah kamu kenal dengan pak Adi""",kah kenal adi,0
+"""Cara cek masa aktif layanan Biznet saya""",cek aktif layanan biznet,0
+"""Mau bayar""",bayar,0
+"""Bagaimana cara mengatur DDNS ?""",mengatur ddns,0
+"""Layanan internet LOS""",layanan internet los,0
+"""cara berlangganan biznet""",berlangganan biznet,0
+"""Upload dan download tidak simetris""",upload download simetris,0
+"""Minimal speed yang didapatkan layanan 0D ?""",minimal speed didapatkan layanan d,0
+"""channel tv yang tersedia dibiznet apa saja?""",channel tv tersedia dibiznet,0
+"""paket yang miliki ip public""",paket miliki ip public,0
+"""prediksi cuaca hari ini min""",prediksi cuaca,0
+"""Sebutkan akun sosisal media layanan Biznet seperti x, facebook  dan instagram?""",sebutkan akun sosisal media layanan biznet x facebook instagram,0
+"""mau beli kuota""",beli kuota,0
+"""Kapan untuk perluasan cakupan area Biznet yang saat ini belum tercover?""",perluasan cakupan area biznet tercover,0
+"""Apakah saya bisa menambah Add On IPTV ?""",menambah add on iptv,0
+"""paket 1ds untuk area mana?""",paket ds area,0
+"""proses nya berapa lama?""",proses,0
+"""jika ingin tambah ekstra kuota gmn?""",ekstra kuota gmn,0
+"""Ada berapa channel yang tersedia pada layanan IPTV Biznet?""",channel tersedia layanan iptv biznet,0
+"""Cara rubah paket gimana""",rubah paket gimana,0
+"""Kalau saya lewat tanggal masa aktif akun nanti gimana nasib saya?""",tanggal aktif akun gimana nasib,0
+"""sudah di restart koneksi jadi mati""",restart koneksi mati,0
+"""Mau tanya tentang Biznet Home, ada paket apa ajaa?""",biznet home paket ajaa,0
+"""kendala lambat""",kendala lambat,0
+"""Biznet apakah bisa berlangganan untuk lokasi high rise?""",biznet berlangganan lokasi high rise,0
+"""apa ada kontak sales yang bisa saya hubungi?""",kontak sales hubungi,0
+"""apakah saya bisa ubah nomor telepon?""",ubah nomor telepon,0
+"""Promo perpanjangan ada apa aja kak?""",promo perpanjangan aja,0
+"""apakah ada promo perpanjangan layanan?""",promo perpanjangan layanan,0
+"""Kalo mau relokasi dong""",kalo relokasi,0
+"""Terminasi layanan Biznet kemana?""",terminasi layanan biznet kemana,0
+"""berapa harga bulanan paket saya""",harga bulanan paket,0
+"""Kalo modem sewa totalnya berapa?""",kalo modem sewa totalnya,0
+"""layanan IPTV dapat channel apa saja?""",layanan iptv channel,0
+"""Saya mau terminasi layanan, bagainmana prosesnya?""",terminasi layanan bagainmana prosesnya,0
+"""Saya sudah bayar tapi internetnya belum bisa digunakan. Kenapa ya?""",bayar internetnya,0
+"""Kalo beli ekstra kuota gmn""",kalo beli ekstra kuota gmn,0
+"""8+4 gaada min?""",gaada,0
+"""Internet saya down sejak semalam""",internet down semalam,0
+"""harga Biznet Home 1D berapa ya?""",harga biznet home d,0
+"""internet cepat tanpa FUP""",internet cepat fup,0
+"""cara tau jumlah prangkat terhubng gimana""",tau prangkat terhubng gimana,0
+"""Jadi baiknya gimana om?""",baiknya gimana om,0
+"""mau dong channel lengkapnya""",channel lengkapnya,0
+"""Untuk username login myBiznet apa ya kak?""",username login mybiznet,0
+"""cara bayar biznet home ?""",bayar biznet home,0
+"""apakah biznet pempunya layanan telepon?""",biznet pempunya layanan telepon,0
+"""cara ganti password secara mandiri?""",ganti password mandiri,0
+"""ada promo apa aja untuk lampung""",promo aja lampung,0
+"""cara cek kuota""",cek kuota,0
+"""kendala tagihan berbeda""",kendala tagihan berbeda,0
+"""kira kira 8+4 kapan tersedia nya ya?""",tersedia,0
+"""Cek koneksi""",cek koneksi,0
+"""ada whatsappnya ga?""",whatsappnya ga,0
+"""Channel juga sudah dirubah""",channel dirubah,0
+"""apakah boleh saya reset modemnya?""",reset modemnya,0
+"""Connection intermitten""",connection intermitten,0
+"""Apakah bisa memiliki lebih dari 1 akun?""",memiliki akun,0
+"""Untuk layanan Biznet Home apakah menyedaiakan invoice pembayaran?""",layanan biznet home menyedaiakan invoice pembayaran,0
+"""Min informasi paket yang bisa 10 device""",informasi paket device,0
+"""cara pengajuan auto debit""",pengajuan auto debit,0
+"""bagaimana cara ikut prooo?""",prooo,0
+"""bukti pembayaran saya belum terima""",bukti pembayaran terima,0
+"""apakah jaringan Biznet free hotspot diluar bisa saya gunakan?""",jaringan biznet free hotspot diluar,0
+"""apakah palmerah jakarta tercover""",palmerah jakarta tercover,0
+"""ada daftar channel nya ga?""",daftar channel ga,0
+"""ada lagi ga paket lainnya""",ga paket,0
+"""Apakah Biznet menyediakan kabel LAN""",biznet menyediakan kabel lan,0
+"""misal saya baut order berapa lama linknya bisa dibayar ya?""",baut order linknya dibayar,0
+"""kalau pasang baru apa dapat promo juga?""",pasang baru promo,0
+"""berapa harga remote iptv?""",harga remote iptv,0
+"""Untuk perubahan paket layanan membutuhkan waktu berapa lama?""",perubahan paket layanan membutuhkan,0
+"""ubah paket ke 3D""",ubah paket d,0
+"""Kalau saya terhalang sekat bagaimana Kak? soalnya modemnya jauh dari area yang saya gunakan""",terhalang sekat modemnya area,0
+"""Kalo untuk layanan IPTV ada ga kak?""",kalo layanan iptv ga,0
+"""Cara mengganti paket gimana""",mengganti paket gimana,0
+"""Inet down""",inet down,0
+"""Saya ingin menggunakan cctv, paket layanan biznet home apa yang cocok untuk penggunaan cctv?""",cctv paket layanan biznet home cocok penggunaan cctv,0
+"""Berapa lama proses pemasangan setelah dilakukan pembayaran""",proses pemasangan pembayaran,0
+"""Apakah ada promo untuk bulan ini?""",promo,0
+"""Boleh minta metode pembayaran layanan Home""",metode pembayaran layanan home,0
+"""km namanya emang siapa ya?""",km namanya emang,0
+"""dapat IP publik statik ga ya?""",ip publik statik ga,0
+"""Adakah perubahan nomor ID pelanggan utk biznet saya?""",adakah perubahan nomor id pelanggan utk biznet,0
+"""Saya melakukan salah bayar tagihan hanya karena salah 1 digit saat memasukan nomor billing ID, apakah ada solusi?""",salah bayar tagihan salah digit memasukan nomor billing id solusi,0
+"""Bisa gak config modem mamual?""",gak config modem mamual,0
+"""Apakah dikenakan kontrak berlangganan untuk layanan Biznet Home?""",dikenakan kontrak berlangganan layanan biznet home,0
+"""Channel IPTV Biznet apa aja ya ?""",channel iptv biznet aja,0
+"""tolong di bantu promo 3+1""",bantu promo,0
+"""menambah perangkat yang sudah ada""",menambah perangkat,0
+"""Nomor virtual account BSI""",nomor virtual account bsi,0
+"""gak ada promo spesial tahun baru?""",gak promo spesial baru,0
+"""nomor call center biznet home""",nomor call center biznet home,0
+"""Apakah perangkat akan diambil jika modemnya membeli""",perangkat diambil modemnya membeli,0
+"""nomornya call center berapa?""",nomornya call center,0
+"""harga modem biznet home""",harga modem biznet home,0
+"""Min modem saya gak mau nyala""",modem gak nyala,0
+"""perbedaan speed dan bandwidth""",perbedaan speed bandwidth,0
+"""cara mengetahui cakupan area""",cakupan area,0
+"""Saya ingin merubah skema penggunaan modem saya saat ini dari sewa menjadi beli apakah bisa?""",merubah skema penggunaan modem sewa beli,0
+"""Mau bulanan saja""",bulanan,0
+"""Ciri ciri tiang biznet gemana ? Soalnya ada tiang miring di jalan""",ciri ciri tiang biznet gemana tiang miring jalan,0
+"""Apakah tidak ada promo beli modem ?""",promo beli modem,0
+"""Bisakah saya menggunakan layanan Biznet Home untuk bisnis/perusahaan?""",layanan biznet home bisnis perusahaan,0
+"""Ada FUP ga min?""",fup ga,0
+"""Apabila nanti saya terminasi lalu saya berlangganan lagi apakah bisa?""",terminasi berlangganan,0
+"""dimana kantor pusat biznet?""",dimana kantor pusat biznet,0
+"""jakarta timur, cakung""",jakarta timur cakung,0
+"""cara beli router tambahan""",beli router tambahan,0
+"""apakah jaringan biznet bisa diperjual belikan lagi?""",jaringan biznet diperjual belikan,0
+"""mau pindah lokasi""",pindah lokasi,0
+"""Gak tau males pengen beli truck""",gak tau males pengen beli truck,0
+"""Cek sisa kuota saya berapa?""",cek sisa kuota,0
+"""Kalok harga paket 0d brrapa?""",kalok harga paket d brrapa,0
+"""biznet home 0dn""",biznet home dn,0
+"""apakah tidak ada promo pembelian modem?""",promo pembelian modem,0
+"""bayar dengan cara di cicil apakah bisa ?""",bayar cicil,0
+"""cara cek coverage area""",cek coverage area,0
+"""di batam ada layanan apa aja""",batam layanan aja,0
+"""Tolong berikan saya detail harganya untuk paket internet dan IPTV""",detail harganya paket internet iptv,0
+"""Berapa jarak ideal dari DP terdekat ke rumah untuk pemasangan ?""",jarak ideal dp terdekat rumah pemasangan,0
+"""Berapa lama Masa aktif layanan Biznet Home?""",aktif layanan biznet home,0
+"""apakah biznet Home meyediakan IP static?""",biznet home meyediakan ip static,0
+"""kenapa saya tidak bisa akses disney hotstar? keterangannya koneksi saya menggunakan vpn""",akses disney hotstar keterangannya koneksi vpn,0
+"""i have red blinking lamp on my modem what should i do?""",i have red blinking lamp on my modem what should i do,0
+"""Bisa gak aku config modem manual ?""",gak config modem manual,0
+"""Saya ingin mengetahui cara cek IP layanan Biznet home saya.""",cek ip layanan biznet home,0
+"""kapan teknisinya datang""",teknisinya,0
+"""tanggal berapa biasanya akan terdebet?""",tanggal terdebet,0
+"""jika saya pakai paket gamers apakah IP yang saya dapat akan berubah ubah?""",pakai paket gamers ip berubah ubah,0
+"""Saya tidak dapat mengirim dan menerimal email""",mengirim menerimal email,0
+"""berapa lama garansi modem biznet?""",garansi modem biznet,0
+"""kalo saya mau relokasi gimana caranya?""",kalo relokasi gimana,0
+"""langkah langkah lakukan bridge modem Biznet bagaimana?""",langkah langkah lakukan bridge modem biznet,0
+"""Bisa informasikan cara berlangganan?""",informasikan berlangganan,0
+"""mau nanya desember ini ada promo apaan aja ya?""",nanya desember promo aja,0
+"""bagaimana cara beli xtra kuota?""",beli xtra kuota,0
+"""bisa pakai STB merek lain?""",pakai stb merek,0
+"""harga paling murah berapa?""",harga murah,0
+"""saya tidak ada pulsa jadi disini saja saya komplainnya""",pulsa komplainnya,0
+"""harga mesh wifi berapa?""",harga mesh internet,0
+"""Apakah layanan metronet bisa untuk rumahan?""",layanan metronet rumahan,0
+"""Mo beli quota""",mo beli quota,0
+"""promo berlangganan 2D buy daerah bogor""",promo berlangganan d buy daerah bogor,0
+"""cara melakukan pembayaran via bank Mandiri""",pembayaran via bank mandiri,0
+"""Ini gimana caranya""",gimana,0
+"""kapan akan dikirimkan reminder pembayaran""",dikirimkan reminder pembayaran,0
+"""apakah Biznet Home mengeluarkan invoice fisik""",biznet home mengeluarkan invoice fisik,0
+"""cara mengetahui masa aktif akun""",aktif akun,0
+"""Untuk trasnfer bank ada bank apa saja?""",trasnfer bank bank,0
+"""kalo promo 3+1 gimana?""",kalo promo gimana,0
+"""mau masuk ke modem?""",masuk modem,0
+"""Biznet bagus gal sih ?""",biznet bagus gal sih,0
+"""Apakah bisa dilakukan rekoneksi""",rekoneksi,0
+"""Biznet homr""",biznet homr,0
+"""boleh bantu ke cs ya""",bantu,0
+"""Saya ingin membuka warnet, layanan Biznet apa yang cocok untuk warnet?""",membuka warnet layanan biznet cocok warnet,0
+"""Biznet Dedicated""",biznet dedicated,0
+"""bagaimana cara memindahkan modem Biznet?""",memindahkan modem biznet,0
+"""apakah saya bisa menggunakan promo untuk paket saya?""",promo paket,0
+"""Bayar promo""",bayar promo,0
+"""Customer Service""",customer service,0
+"""Berapa kapasitas bandwidth yang bisa di dapatkan jika saya menggunakan kabel LAN?""",kapasitas bandwidth dapatkan kabel lan,0
+"""Cara change data dong""",change data,0
+"""harga home internet 0D""",harga home internet d,0
+"""tipe kabelnya apa min""",tipe kabelnya,0
+"""emang itu kalo nggak bayar bakal di ambil modemnya""",emang kalo bayar ambil modemnya,0
+"""Min saya punya 2 perangkat dengan ID layanan yang berbeda, tapi ko di app MyBiznet cuma 1 yang terbaca""",perangkat id layanan berbeda ko app mybiznet terbaca,0
+"""Apakah Biznet dapat melakukan refund jika terjadi kesalahan pembayaran?""",biznet refund kesalahan pembayaran,0
+"""Connection Down""",connection down,0
+"""harga paket 0DS""",harga paket ds,0
+"""Bisa informasikan dikenakan  berapa pajak pada layanan Biznet?""",informasikan dikenakan pajak layanan biznet,0
+"""pilihan internet untuk kantor""",pilihan internet kantor,0
+"""saya mau pasang baru""",pasang baru,0
+"""Los modem min""",los modem,0
+"""Paket 3 Plus 1 hargfanya berapa?""",paket plus hargfanya,0
+"""Internet putus ni""",internet putus ni,0
+"""Kenapa VPN kantor saya tidak ada koneksi.""",vpn kantor koneksi,0
+"""apakah ada garansi untuk pembelian STB""",garansi pembelian stb,0
+"""bisa sambungkan ke live agent""",sambungkan live agent,0
+"""cara stop auto debet?""",stop auto debet,0
+"""i live in pantai indah kapuk 3, north jakarta""",i live in pantai indah kapuk north jakarta,0
+"""apakah biznet home tercover area cibinong?""",biznet home tercover area cibinong,0
+"""saya mau complaint""",complaint,0
+"""apakah ada denda berlangganan?""",denda berlangganan,0
+"""kalo beli modem?""",kalo beli modem,0
+"""internet down nih gemana ?""",internet down gemana,0
+"""Oke terus kapan reminder pembayaran dikirim?""",oke reminder pembayaran dikirim,0
+"""Cukup min bisa di akhiri chat nya""",chat,0
+"""Saya ingin melakukan pembayaran dengan promo tetapi masa aktif saya masih sampai dengan 30 Desember 2024, apakah jika saya melakukan pembayaran hari ini masa aktif akan terkakumulasi?""",pembayaran promo aktif desember pembayaran aktif terkakumulasi,0
+"""kalo lewat shoope ga bisa ya?""",kalo shoope,0
+"""saya tidak dapat akses website tertentu, dapat dibantu?""",akses website dibantu,0
+"""Kapan sebaiknya saya melakukan perubahan paket layanan internet saya?""",perubahan paket layanan internet,0
+"""Bagaimana prtosedur relokasi?""",prtosedur relokasi,0
+"""jika modem saya rusak apakah bisa dilakukan pergantian?""",modem rusak pergantian,0
+"""Tolong diinformasikan paket layanan yang tersedia untuk rumah saya""",diinformasikan paket layanan tersedia rumah,0
+"""Apakah biznet metronet memiliki SLA""",biznet metronet memiliki sla,0
+"""Adakah perubahan nomor pelanggan utk biznet saya?""",adakah perubahan nomor pelanggan utk biznet,0
+"""kenapa bayar di atas jam 12 malam gak langsung aktif internetnya?""",bayar jam malam gak langsung aktif internetnya,0
+"""Internet aga lambat""",internet aga lambat,0
+"""assalamualaikum""",assalamualaikum,0
+"""baik, \nkalo masa aktifnya hinga 3 Januari 2025 gimana om?""",nkalo aktifnya hinga januari gimana om,0
+"""Saya mau pindahin modem gimana caranya?""",pindahin modem gimana,0
+"""cara login my biznet""",login my biznet,0
+"""berapa perangkat untuk 1dn?""",perangkat dn,0
+"""kata SPV saya unlimited selama order masih ada?""",spv unlimited order,0
+"""mau setting modem sendiri gimana caranya""",setting modem gimana,0
+"""baik terimakasih""",terimakasih,0
+"""ada internet ngga bisa browsing""",internet ngtidak browsing,0
+"""Estimasi relokasi biasaya berapa hari?""",estimasi relokasi biasaya,0
+"""Kalau telat melakukan pembayaran paket apakah ada denda kak?""",telat pembayaran paket denda,0
+"""saya mau ganti modem""",ganti modem,0
+"""Internet mati nih""",internet mati,0
+"""Koneksi Lambat""",koneksi lambat,0
+"""internet aku putus min tidak bisa dipakai""",internet putus dipakai,0
+"""bisa combo sama home 0d ngga""",combo home d ngga,0
+"""ingin membeli kuota""",membeli kuota,0
+"""cara membeli add on kuota?""",membeli add on kuota,0
+"""Jika berlangganan dengan skema modem membeli apakah ada garansi modemnya?""",berlangganan skema modem membeli garansi modemnya,0
+"""Apa itu FUP""",fup,0
+"""apakah untuk layanan 3D mendapatkan ip static?""",layanan d ip static,0
+"""harga modem biznet""",harga modem biznet,0
+"""Mau pesen lewat cs dong""",pesen,0
+"""Min saya dibatam, kena PPN 11% ga?""",dibatam kena ppn ga,0
+"""Apakah bisa melakukan perubahan paket?""",perubahan paket,0
+"""koneksi saya gk bisa dipake""",koneksi gk dipake,0
+"""Berapa maksimal device pada layanan 0D""",maksimal device layanan d,0
+"""saya mau tanya perihal layanan""",perihal layanan,0
+"""keunggulan layanan 0D apa aja ya""",keunggulan layanan d aja,0
+"""apakah cabang gunung putri buka setiap hari?""",cabang gunung putri buka,0
+"""Tidak dapat membuka halaman aplikasi di situs https://app.biznet.id.""",membuka halaman aplikasi situs https app biznet id,0
+"""Mau berhenti berlangganan, Belum pasti nanti akan digunakan kembali atau tidak Pak""",berhenti berlangganan,0
+"""kenapa koneksi saya putus-putus?""",koneksi putus putus,0
+"""Paket apa saja pilhannya ?""",paket pilhannya,0
+"""cara beli promo gemana ?""",beli promo gemana,0
+"""layanan metronet itu apa""",layanan metronet,0
+"""Ingin cp""",cp,0
+"""itu kapan resetnya""",resetnya,0
+"""Username dan pass adminnya apa ?""",username pass adminnya,0
+"""Klo ubah password?""",klo ubah password,0
+"""sulawesi ada paket apa aja""",sulawesi paket aja,0
+"""Untuk pembayaran kemana ya?""",pembayaran kemana,0
+"""Troubleshoot modem blinking""",troubleshoot modem blinking,0
+"""kalo layanan saya 1D dan ingin menggunakan IPTV, tagihannya di kenakan berapa?""",kalo layanan d iptv tagihannya kenakan,0
+"""cara setting CCTV pakai jaringan biznet""",setting cctv pakai jaringan biznet,0
+"""Saya minta no WhatsApp nya dong""",no whatsapp,0
+"""Cara mengetahui alamat sudah tercover atau belum gimana?""",alamat tercover gimana,0
+"""Jika skema modem diawal menyewa, apakah bisa dilakukan pembelian""",skema modem diawal menyewa pembelian,0
+"""Lambat internet""",lambat internet,0
+"""mau beli etra quota""",beli etra quota,0
+"""Apakah layanan Biznet Home dikenakan kontrak""",layanan biznet home dikenakan kontrak,0
+"""Connection Slow""",connection slow,0
+"""Berapa jenis paket gamers biznet?""",jenis paket gamers biznet,0
+"""Kapan kuota akan direset""",kuota direset,0
+"""Untuk proses selanjutnya jika alamat tempat tinggal saya sudah tercover jaringan Biznet seperti apa atau bagimana?""",proses alamat tinggal tercover jaringan biznet bagimana,0
+"""Saya ada kendala pembayaran nih""",kendala pembayaran,0
+"""produk yang murah meriah""",produk murah meriah,0
+"""kok ga bisa akses situs perbankan""",akses situs perbankan,0
+"""Apa syarat untuk berhenti berlangganan ?""",syarat berhenti berlangganan,0
+"""di my biznet no promo available, kenapa?""",my biznet no promo available,0
+"""kenapa jaringan saya bermasalah akhir akhir ini?""",jaringan bermasalah,0
+"""putus sambung""",putus sambung,0
+"""apakah bisa ajukan terminasi melalui MyBiznet?""",ajukan terminasi mybiznet,0
+"""Bagaimana cara agar koneksi internet tetap stabil""",koneksi internet stabil,0
+"""Biaya pinalty terminasi""",biaya pinalty terminasi,0
+"""cara melakukan pembayaran melalui virtual account BCA""",pembayaran virtual account bca,0
+"""loss merah""",los merah,0
+"""Mau rubah password gimana caranya?""",rubah password gimana,0
+"""Koneksi down""",koneksi down,0
+"""Berapa biaya instalasi""",biaya instalasi,0
+"""Apa kelemahan koneksi dengan fiber ?""",kelemahan koneksi fiber,0
+"""Harga visit berbayar""",harga visit berbayar,0
+"""informasi promo""",informasi promo,0
+"""apakah jaringan biznet bisa dikomersilkan?""",jaringan biznet dikomersilkan,0
+"""Nanya promo""",nanya promo,0
+"""kalau untuk kantor apa bisa pakai biznet home?""",kantor pakai biznet home,0
+"""saya mau ubah nama akun apakah bisa?""",ubah nama akun,0
+"""mau downgrade""",downgrade,0
+"""Saya mau melakukan perpanjangan wifi""",perpanjangan internet,0
+"""Kamu sebagai apa di biznet""",biznet,0
+"""Untuk koneksi agak intermitten y""",koneksi intermitten y,0
+"""kalo ingin terminasi gimana caranya?""",kalo terminasi gimana,0
+"""Area Jawa ada paket apa saja?""",area jawa paket,0
+"""pembayaran di tolak""",pembayaran tolak,0
+"""cara melakukan registrasi ulang""",registrasi ulang,0
+"""kan lama proses nya di 7 hari, mahal tapi lama""",proses mahal,0
+"""ada promo untuk iptv?""",promo iptv,0
+"""apakah modem saya akan dilakukan pengambilan?""",modem pengambilan,0
+"""saya ingin membeli modem apakah bisa di proses di hari ini?""",membeli modem proses,0
+"""apakah remot tv iptv bisa beli diluar biznet?""",remot tv iptv beli diluar biznet,0
+"""Akun saya sebelumnya sudah terminated dengan skema modem membeli lalu ingin berlangganan kembali, apakah modemnya dapat digunkan kembali?""",akun terminated skema modem membeli berlangganan modemnya digunkan,0
+"""apakah KTP yang sudah saya daftarkan bisa didaftarkan lagi?""",ktp daftarkan didaftarkan,0
+"""saya ingin menambah router tamban untuk memperluas jaringan Biznet, apakah ada rekomendasi perangkat?""",menambah router tamban memperluas jaringan biznet rekomendasi perangkat,0
+"""bagaimana cara upgrade?""",upgrade,0
+"""beli kuotq""",beli kuotq,0
+"""Apakah Biznet Home memiliki kompensasi""",biznet home memiliki kompensasi,0
+"""apakah bisa jika saya tidak bayar sebulan karena akan keluar kota?""",bayar sebulan kota,0
+"""apakah mybiznet sudah tersedia di appstore atau playstore ?""",mybiznet tersedia appstore playstore,0
+"""apakah biznet memiliki tanggal jatuh tempo""",biznet memiliki tanggal jatuh tempo,0
+"""Apa aladan saya pilih biznet home ?""",aladan pilih biznet home,0
+"""mo relokasi""",mo relokasi,0
+"""informasi harga paket area manado min""",informasi harga paket area manado,0
+"""apa itu IP?""",ip,0
+"""saya ga bisa buka detik.com""",buka detik com,0
+"""apa arti Biznet?""",arti biznet,0
+"""dih kok di kenakan pinalti?""",dih kenakan pinalti,0
+"""kalau mau beli promo 3+1 gimaa caranya""",beli promo gimaa,0
+"""jumlah channel TV yang terdapat di dalam Layanan Biznet Biznet IPTV""",channel tv layanan biznet biznet iptv,0
+"""mau tanya cakupan min""",cakupan,0
+"""hubungkan ke agent""",hubungkan agent,0
+"""Change package with another ID""",change package with another id,0
+"""berapa lama estimasi perbaikan gangguan""",estimasi perbaikan gangguan,0
+"""login my biznet gimana?""",login my biznet gimana,0
+"""Berapa harga perbulan untuk layanan IPTV dan apakah saya perlu melakukan pembelian alatnya?""",harga perbulan layanan iptv pembelian alatnya,0
+"""bukan disitu alamatnya""",disitu alamatnya,0
+"""Jenis paket layanan biznet home""",jenis paket layanan biznet home,0
+"""Kalau kendala internet mati saya harus bagaimana?""",kendala internet mati,0
+"""remote iptv saya rusak""",remote iptv rusak,0
+"""Bandiwth 1D berapa?""",bandiwth d,0
+"""saya mau tau harga paket saya""",tau harga paket,0
+"""ada paket paling murah berapa?""",paket murah,0
+"""Masalah teknis""",teknis,0
+"""bisa tidak pengajuan IPTV untuk layanan 0D?""",pengajuan iptv layanan d,0
+"""mau 12+5 deh kak""",deh,0
+"""Layanan yang di sarankan untuk menggunakan CCTV""",layanan sarankan cctv,0
+"""cara pasang router tambahan""",pasang router tambahan,0
+"""Masa aktif masih 3 bulan lagi, mau change packet bisa min?""",aktif change packet,0
+"""Kenapa lokasi saya gak bisa pake biznet?""",lokasi pake biznet,0
+"""min portnya keblokir""",portnya keblokir,0
+"""Kalok mau ngjuin sponsor kemana ?""",kalok ngjuin sponsor kemana,0
+"""Apakah Biznet menjual perangkat router tambahan untuk support jangakuan koneksinya?""",biznet menjual perangkat router tambahan support jangakuan koneksinya,0
+"""cara login ke mybiznet""",login mybiznet,0
+"""ada promo apa saja pada bulan desember ini?""",promo desember,0
+"""berapa harga pemasangan awal untuk layanan biznet home internet 1d untuk wilayah depok""",harga pemasangan layanan biznet home internet d wilayah depok,0
+"""Ciri ciri tiang biznet warna apa soalnya ada tiang miring dijalanan?""",ciri ciri tiang biznet warna tiang miring dijalanan,0
+"""kalo lambat gmn""",kalo lambat gmn,0
+"""Halo Pagi, mau tanya tentang biznet home""",halo pagi biznet home,0
+"""interner down""",interner down,0
+"""Apakah ada ketentuan untuk rekoneksi layanan yang sudah lama tidak dibayarkan?""",ketentuan rekoneksi layanan dibayarkan,0
+"""cara login ke aplikasi gimana""",login aplikasi gimana,0
+"""Ada biaya penalty untuk terminasi?""",biaya penalty terminasi,0
+"""Info produk Biznet home""",info produk biznet home,0
+"""wilayah sukawati bali""",wilayah sukawati bali,0
+"""syarat relokasi apa saja?""",syarat relokasi,0
+"""ada lampu loss merah""",lampu los merah,0
+"""Ada modem wireless gak ?""",modem wireless gak,0
+"""saya mau topup""",topup,0
+"""Kelemahan koneksi wifi""",kelemahan koneksi internet,0
+"""Harga paket yang tersedia di Biznet Home""",harga paket tersedia biznet home,0
+"""jika internet putus nyambung itu kenapa ya?""",internet putus nyambung,0
+"""saya ingin ubah layanan apakah bisa dibantu""",ubah layanan dibantu,0
+"""Apakah Biznet ada channel HBO""",biznet channel hbo,0
+"""bukannya promo 12+5 itu benarnya  12+6 ya""",promo benarnya,0
+"""layanan saya biznet 3D, saya mau main dota 2, sudah berhasil masuk ke steam, tapi saya tidak dapat akses dota 2, kenapa ya?""",layanan biznet d main dota berhasil masuk steam akses dota,0
+"""Owh oje kalok di tambah router bisa gak ?""",owh oje kalok router gak,0
+"""Min cara liat ID pembayaran dimana""",liat id pembayaran dimana,0
+"""pembayaran apa saja yang disediakan oleh biznet""",pembayaran disediakan biznet,0
+"""kuota saya saat ini""",kuota,0
+"""harga promo biznet ada?""",harga promo biznet,0
+"""berapa hari estimasi pemasangan?""",estimasi pemasangan,0
+"""apa ada promo yg tersedia saat ini?""",promo yg tersedia,0
+"""cara order promo melalui Mybiznet""",order promo mybiznet,0
+"""Saya mau tanya pembayaran biznet bisa apa saja.""",pembayaran biznet,0
+"""Ip yang didapatkan pada paket 1D""",ip didapatkan paket d,0
+"""Massa aktif saya sampai kapan?""",massa aktif,0
+"""Cara cek coverage layanan Biznet Home""",cek coverage layanan biznet home,0
+"""jika saya terminasi sebelum masa kontak langganan berakhir dikarenakan alamat baru belum tercakup apakah  tidak dikenakan biaya pinati?""",terminasi kontak langganan alamat baru tercakup dikenakan biaya pinati,0
+"""cara berlangganan baru bagaimana?""",berlangganan baru,0
+"""Kalau biaya pemasangan baru berapa kak?""",biaya pemasangan baru,0
+"""Salam sejahtera""",salam sejahtera,0
+"""Cara cek nomor SN biznet dimana?""",cek nomor sn biznet dimana,0
+"""minta detail dan pastinya dong buat harga dari promo, lebih baik saya pilih ya mana nih?""",detail pastinya harga promo pilih,0
+"""kapan mybiznet ada di appstore?""",mybiznet appstore,0
+"""bayar dengan cara hutang ?""",bayar hutang,0
+"""Apakah bisa menggunakan e-mail dan nomor telepon yang sama""",e mail nomor telepon,0
+"""Internetnya lambat""",internetnya lambat,0
+"""berapa suhu modem seharusnya""",suhu modem,0
+"""harga paket 0DW""",harga paket dw,0
+"""Perbedaan IP Biznet Home 0D sama Gamers 3D apa min""",perbedaan ip biznet home d gamers d,0
+"""apakah jika berlangganan dikenakan masa kontrak""",berlangganan dikenakan kontrak,0
+"""bagaimana cara beli modem?""",beli modem,0
+"""Inwt mati ni""",inwt mati ni,0
+"""cara melakukan ping dan tracert itu bagaimana?""",ping tracert,0
+"""maksimal penarikan kabel berapa meter""",maksimal penarikan kabel meter,0
+"""ya ga mau tau, saya kemarin ditawarin promo 8+4""",ga tau kemarin ditawarin promo,0
+"""Kalo harga paket gamers 3D berapa?""",kalo harga paket gamers d,0
+"""saya belum terbantu ini""",terbantu,0
+"""Untuk STB nya apakah ada biaya lagi?""",stb biaya,0
+"""Halo internet saya down""",halo internet down,0
+"""Modem los""",modem los,0
+"""kalo nomor telepon Home care berapa ya? saya mau call""",kalo nomor telepon home care call,0
+"""Apakah Biznet dapat dilakukan refund jika pelanggan tidak puas dengan layanannya""",biznet refund pelanggan puas layanannya,0
+"""Pembayaran lewat UOB bisa atau tidak?""",pembayaran uob,0
+"""Internet""",internet,0
+"""cara membeli promo""",membeli promo,0
+"""router apa yg recomended?""",router yg recomended,0
+"""Saya tidak bisa akses App Biznet""",akses app biznet,0
+"""Payment""",payment,0
+"""Apakah layanan home memiliki jatuh tempo""",layanan home memiliki jatuh tempo,0
+"""Lsyanan saya expired kapan ?""",lsyanan expired,0
+"""tanggal berapa cc biasanya akan terdebet?""",tanggal cc terdebet,0
+"""bisa di bantu informasikan menu quota tambahan biznet home?""",bantu informasikan menu quota tambahan biznet home,0
+"""Cara bayar via mandiri""",bayar via mandiri,0
+"""mau ajuin perluasan wilayah gimana caranya?""",ajuin perluasan wilayah gimana,0
+"""kok bandwidth yang kudapat ngga sesuai sih???""",bandwidth kudapat ngga sesuai sih,0
+"""Saya salah bayar ke nomor virtual account orang lain, apa yang harus saya lakukan?""",salah bayar nomor virtual account orang lakukan,0
+"""bagiamana cara cek FUP paket?""",bagiamana cek fup paket,0
+"""apakah biznet ada paket yang harganya 150.000?""",biznet paket harganya,0
+"""apakah *Deco M4 TP-Link Mesh* menggunakan kabel atau wireless?""",deco m tp link mesh kabel wireless,0
+"""Kalo promo 6+2""",kalo promo,0
+"""Apakah modem bisa diganti jika terjadi kerusakan""",modem diganti kerusakan,0
+"""Apakah bisa dilakukan perubahan atas nama""",perubahan nama,0
+"""bagaimana cara mengganti SSID wifi""",mengganti ssid internet,0
+"""paket yang lebih rendah dari yg kupakai sekarang ada apa aja?""",paket rendah yg kupakai aja,0
+"""Apakah 2025 PPN biznet jadi 12%?""",ppn biznet,0
+"""btn_chat_live_agent""",btn chat live agent,0
+"""min modem saya hilang""",modem hilang,0
+"""Mau mengadukan layanan.""",mengadukan layanan,0
+"""bayar lewat mana cok""",bayar cok,0
+"""order promo yang tersedia saat ini?""",order promo tersedia,0
+"""Modem Biznet tipenya apa saja?""",modem biznet tipenya,0
+"""Cara login ke aplikasi genana ?""",login aplikasi genana,0
+"""Apakah Harga layanan Biznet berubah-ubah?""",harga layanan biznet berubah ubah,0
+"""saya minta info promo lagi dong""",info promo,0
+"""Kalau sudah isi formulir terminasi namun ada tagihan masuk ke email, apa yang harus saya lakukan?""",isi formulir terminasi tagihan masuk email lakukan,0
+"""Villa Mahkota Pesona, Blok IJ 8 no 6, Bojong Kulur, Gunung Putri""",villa mahkota pesona blok ij no bojong kulur gunung putri,0
+"""Modem saya ada lampu merahnya min?""",modem lampu merahnya,0
+"""jalan Gajah nomor 114\nkel Pandau Hulu II\nkec Medan Area\nkota Medan""",jalan gajah nomor nkel pandau hulu ii nkec medan area nkota medan,0
+"""Promo layanan Biznet?""",promo layanan biznet,0
+"""Saya sudah membuka website Biznethome.net namun tidak menemukan menu pendaftaran, bisa dibantu?""",membuka website biznethome net menemukan menu pendaftaran dibantu,1
+"""apakah pergantian layanan dan pembelian modem bisa di proses secara bersamaan?""",pergantian layanan pembelian modem proses bersamaan,1
+"""cara mengajukan perpindahan tiang biznet sebagai non customer""",mengajukan perpindahan tiang biznet non customer,1
+"""Cara ubah password wifi di lokasi bagaimana?""",ubah password internet lokasi,1
+"""di bogor apa bisa pasang IPTV nya saja tanpa internet""",bogor pasang iptv internet,1
+"""Cara ganti nama akun gimana""",ganti nama akun gimana,1
+"""Kalo mau pasang, apakah ada biaya pasang min?""",kalo pasang biaya pasang,1
+"""mau ganti paket ke Biznet Home yang lebih tinggi""",ganti paket biznet home,1
+"""bagaimana cara perpindahan modem ke lokasi yang baru""",perpindahan modem lokasi baru,1
+"""apakah relokasi modem biznet bisa saya relokasi mandiri?""",relokasi modem biznet relokasi mandiri,1
+"""Oke aku ada rencana pasang di surabaya di merr ke cover gak ?""",oke rencana pasang surabaya merr cover gak,1
+"""Relokasi layanan Biznet Home?""",relokasi layanan biznet home,1
+"""apakah akun kompliment jika ingin relokasi dikenakan biaya?""",akun kompliment relokasi dikenakan biaya,1
+"""berapa lama proses pergantian nama akun biznet?""",proses pergantian nama akun biznet,1
+"""Kalok harga relokasi home ?""",kalok harga relokasi home,1
+"""pindah ke Jl. Pd. Mitra Lestari No.11 Blok A4, RT.002/RW.005, Jaka Setia, Bekasi Selatan, Bekasi, West Java 17147""",pindah jl pd mitra lestari no blok a rt rw jaka setia bekasi selatan bekasi west java,1
+"""apakah bisa memanggil teknisi untuk setting router?""",memanggil teknisi setting router,1
+"""bagaimana jika ingin perpindahan modem, namun alamat barunya tidak tercakup""",perpindahan modem alamat barunya tercakup,1
+"""Jika ingin pindah alamat, namun lokasi baru tidak tercakup, bagaimana?""",pindah alamat lokasi baru tercakup,1
+"""apakah bisa memanggil teknisi biznet untuk memasangkan router tambahan""",memanggil teknisi biznet memasangkan router tambahan,1
+"""Bagaimana jika ingin relokasi namun alamat barunya tidak tercakup""",relokasi alamat barunya tercakup,1
+"""Estimasi kunjungan teknisi biznet""",estimasi kunjungan teknisi biznet,1
+"""Kalo ganti password Wifi gimana?""",kalo ganti password internet gimana,1
+"""Cara ganti layanan home ke metronet""",ganti layanan home metronet,1
+"""Kalo modem dibawa pindah sendiri bisa ngga""",kalo modem dibawa pindah ngga,1
+"""Bisa dibantu langkah untuk mengatur NAT pada playstation?""",dibantu langkah mengatur nat playstation,1
+"""Biaya relokasi biznet home?""",biaya relokasi biznet home,1
+"""Saya mau pasang di banten bis acek coveratge ?""",pasang banten bis acek coveratge,1
+"""berapa biaya pergantian remote IPTV""",biaya pergantian remote iptv,1
+"""Mengapa saya tidak dapat mengisi formulir relokasi? setelah disubmit hanya blank""",mengisi formulir relokasi disubmit blank,1
+"""untuk permintaan add on kouta bisa melalui apa saja?""",permintaan add on kouta,1
+"""Saya tidak dapat akses youtube.com, apakah dapat dibantu?""",akses youtube com dibantu,1
+"""min mau daftar untuk di  JL TLK LAMPUNG""",daftar jl tlk lampung,1
+"""Mengapa masih mendapatkan reminder tagihan padahal sudah mengajukan terminasi""",reminder tagihan mengajukan terminasi,1
+"""kalau saya pakai IP Public Dynamic akan terreset per kapan?""",pakai ip public dynamic terreset,1
+"""kalau terdaftar autodebet apakah tetap bisa mengikuti promo?""",terdaftar autodebet mengikuti promo,1
+"""Jika saya melakukan pergantian paket dan masa aktif saya masih tersisa dipaket sebelumnya, apakah sisa masa aktif tersebut akan hangus?""",pergantian paket aktif tersisa dipaket sisa aktif hangus,1
+"""iya min cara akses ke modem mau ganti password""",iya akses modem ganti password,1
+"""Thank you kalok saya mau ganti paket bisa ?""",thank you kalok ganti paket,1
+"""bagaimana cara ubah password akun mybiznet?""",ubah password akun mybiznet,1
+"""Apakah saya perlu membwa modem ke lokasi baru jika ingin relokasi?""",membwa modem lokasi baru relokasi,1
+"""apakah jika saya pindah ke malaysia jaringan Biznet saya bisa ikut dipindah?""",pindah malaysia jaringan biznet dipindah,1
+"""Biaya pasang baru biznet berapa ?""",biaya pasang baru biznet,1
+"""Saya mau pasang Kak, untuk kebutuhan 3 orang kira-kira paket yang cocok apa ya?""",pasang kebutuhan orang paket cocok,1
+"""Saya ingin melakukan relokasi, namun untuk lokasi baru saya belum tercakup jaringan internet biznet, apa yang harus saya lakukan?""",relokasi lokasi baru tercakup jaringan internet biznet lakukan,1
+"""apakah bisa mengganti email dan nomor hp di kaun?""",mengganti email nomor hp kaun,1
+"""bilamana alamat baru belum tercakup layanan biznet, syarat terminasi apa saja?""",bilamana alamat baru tercakup layanan biznet syarat terminasi,1
+"""Apakah layanan Biznet bisa diganti kepemilikan?""",layanan biznet diganti kepemilikan,1
+"""jika saya ingin daftar biznet untuk kosan baiknya menggunakan layanan yang mana?""",daftar biznet kosan baiknya layanan,1
+"""bagaimana cara melakukan pergantian password pada akun MyBiznet""",pergantian password akun mybiznet,1
+"""Kalau begitu cara pendaftaran layanan Biznet Home bagai mana?""",pendaftaran layanan biznet home,1
+"""Biaya relokasi layanan Biznet Home berapa kak?""",biaya relokasi layanan biznet home,1
+"""Saya ingin ganti paket ke Gamers 3D""",ganti paket gamers d,1
+"""saya mau ganti paket ke yg lebih murah gimana caranya?""",ganti paket yg murah gimana,1
+"""mau pindah modem cuman geser dikit gimana caranya""",pindah modem cuman geser dikit gimana,1
+"""apakah bisa request pemisahan akun jika dalam satu akun terdaftar 2 billing pembayaran?""",request pemisahan akun akun terdaftar billing pembayaran,1
+"""apakah teknisi biznet bisa setting router tambahan saya?""",teknisi biznet setting router tambahan,1
+"""tanggal berapa biasanya dilakukan pembayaran auto debet untuk kartu kredit yang terdaftar di Biznet?""",tanggal pembayaran auto debet kartu kredit terdaftar biznet,1
+"""apakah pergantian layanan menghanguskan sisa masa aktif?""",pergantian layanan menghanguskan sisa aktif,1
+"""apakah biznet ada sistem kontrak untuk pemasangan baru?""",biznet sistem kontrak pemasangan baru,1
+"""proses penjadwalan instalasi, aktivasi dan relokasi membutuhkan waktu?""",proses penjadwalan instalasi aktivasi relokasi membutuhkan,1
+"""cara cek tanggal reset kuota?""",cek tanggal reset kuota,1
+"""Apakah bisa mengganti nama menggunakan nama PT?""",mengganti nama nama pt,1
+"""Biaya yang timbul akibat relokasi""",biaya timbul akibat relokasi,1
+"""apakah ganti paket akan mengakumulasikan masa aktif yang sedang berjalan?""",ganti paket mengakumulasikan aktif berjalan,1
+"""Ingin pasang baru di jonggol paket 0d""",pasang baru jonggol paket d,1
+"""saya ingin pindah dari jakarta ke bali, apakah dapat dilakukan relokasi?""",pindah jakarta bali relokasi,1
+"""kalau saya ingin ganti paket, paket mana saja yang bsia saya gunakan""",ganti paket paket bsia,1
+"""Bagaimana apabila alamat baru tidak tercakup untuk relokasi?""",alamat baru tercakup relokasi,1
+"""Langsung aja kirim teknisi""",langsung aja kirim teknisi,1
+"""bilamana alamat baru belum tercakup layanan biznet apakah akun saya bisa dialihkan ke orang lain?""",bilamana alamat baru tercakup layanan biznet akun dialihkan orang,1
+"""bisa diinformasikan untuk reset kouta setiap tanggal berapa?""",diinformasikan reset kouta tanggal,1
+"""Oke kalok mai ganti pw wifi ?""",oke kalok mai ganti pw internet,1
+"""apa saja syarat untuk pergantian nama akun biznet?""",syarat pergantian nama akun biznet,1
+"""cara merubah e-mail terdaftar""",merubah e mail terdaftar,1
+"""apakah quota tambahan akan hangus jika FUP utama sudah reset?""",quota tambahan hangus fup utama reset,1
+"""tanggal berapa biasanya akan terdebet untuk kartu kredit yang terdaftar di biznet?""",tanggal terdebet kartu kredit terdaftar biznet,1
+"""Bisa ga kalo saya ganti paket layanan dibawahnya?""",ga kalo ganti paket layanan dibawahnya,1
+"""apakah untuk pergantian email dan nomor telepon terdaftar harus mengisi form pergantian data?""",pergantian email nomor telepon terdaftar mengisi form pergantian data,1
+"""apakah jika dilakukan perbaikan teknisi ke lokasi dikenakan biaya""",perbaikan teknisi lokasi dikenakan biaya,1
+"""Saya tidak bisa bayat, Infonya no anda tidak terdaftar,""",bayat infonya no terdaftar,1
+"""Kalau terdaftar autodebet bagaimana langkah untuk terminasi?""",terdaftar autodebet langkah terminasi,1
+"""harga pasang baru di lokasi sama min""",harga pasang baru lokasi,1
+"""bagaimana jika saya ingin melakukan penambahan layanan pemasangan di lokasi baru?""",penambahan layanan pemasangan lokasi baru,1
+"""saya mau pasang iptv, berapa harga untuk pemasangan paket iptv?""",pasang iptv harga pemasangan paket iptv,1
+"""Apakah IP akan terganti jika kita restart modem dengan layanan Bizne Home?""",ip terganti restart modem layanan bizne home,1
+"""Bagaimana cara ganti ssid dan password wifi?""",ganti ssid password internet,1
+"""Min saya sewa modem biznet, tapi pengen ganti modem baru bisa engga?""",sewa modem biznet pengen ganti modem baru engga,1
+"""saya mau yg gamers, apa bisa di pasang di toko saya?""",yg gamers pasang toko,1
+"""Saya ada keperluan ganti paket tapi masih panjang masa aktifnya, apakah bisa diproses sekarang?""",keperluan ganti paket aktifnya diproses,1
+"""Kalau dalam waktu 1x24 jam tidak ada kunjungan tim teknisi, apakah akan ada kompensasi?""",x jam kunjungan tim teknisi kompensasi,1
+"""Untuk estimasi kunjungan perbaikan dengan teknisi berapa lama?""",estimasi kunjungan perbaikan teknisi,1
+"""saya ingin mengganti password wifi secara mandiri, apakah dapat dilakukan?""",mengganti password internet mandiri,1
+"""Pengen ganti paket 25 Mbps ada ga?""",pengen ganti paket mbps ga,1
+"""Saya ingin melakukan pergantian data nama akun, sayarat nya bisa diinformasikan apa saja?""",pergantian data nama akun sayarat diinformasikan,1
+"""Saya ingin mengganti data pada akun layanan saya, bisa dibantu?""",mengganti data akun layanan dibantu,1
+"""Jika ingin reloksi ke alamat barun dan alamat baru saya sudah tercakup, syaratnya apa saja?""",reloksi alamat barun alamat baru tercakup syaratnya,1
+"""apa bisa mendaftarkan autodebet untuk pembayaran biznet?""",mendaftarkan autodebet pembayaran biznet,1
+"""Kalau ganti nama akun, ada biaya nya engga?""",ganti nama akun biaya engga,1
+"""saya ingin pasang baru alkun tambahan""",pasang baru alkun tambahan,1
+"""Bagaimana cara ubah alamat Email terdaftar kak?""",ubah alamat email terdaftar,1
+"""Kalo ganti paket gimana?""",kalo ganti paket gimana,1
+"""Cara ganti password secara mandiri gmna""",ganti password mandiri gmna,1
+"""Apakah saya bisa datang langsung datang ke cabang Biznet terdekat dari lokasi saya untuk menanyakan terkait ingin melakukan pendaftaran jaringan internet Biznet dirumah saya?""",langsung cabang biznet terdekat lokasi terkait pendaftaran jaringan internet biznet dirumah,1
+"""Coba cek sama minta teknisi cek ke rumah""",coba cek teknisi cek rumah,1
+"""layanan apa ya kalo saya mau pasang IPTV yang cocok?""",layanan kalo pasang iptv cocok,1
+"""Berapa lama IP Biznet Home terganti""",ip biznet home terganti,1
+"""ok, kalau tempat saya untuk rt rw net apa bisa dipasang?""",ok rt rw net dipasang,1
+"""teman saya ada pakai biznet metronet, apa bisa dipasang biznet iptv di akunnya?""",teman pakai biznet metronet dipasang biznet iptv akunnya,1
+"""bisa dibantu informasikan prosedur pergantian paket layanan?""",dibantu informasikan prosedur pergantian paket layanan,1
+"""cara pasang baru, di JL PULAU SULAWESI""",pasang baru jl pulau sulawesi,1
+"""apakah modem biznet bisa diganti dengan modem yang saya beli sendiri di luar?""",modem biznet diganti modem beli,1
+"""apakah untuk pergantian paket layanan bisa sekaligus bundling promo tahunan?""",pergantian paket layanan bundling promo tahunan,1
+"""Mengapa masih mendapatkan reminder tagihan padahal sudah mengajukan relokasi""",reminder tagihan mengajukan relokasi,1
+"""saya cek udah tercover, saya bisa ajukan sendiri atau perlu oleh customer ya?""",cek udah tercover ajukan customer,1
+"""saya mau pasang baru dengan beli modem dan paket Biznet Home 3D""",pasang baru beli modem paket biznet home d,1
+"""Hallo siang, saya mau berhenti berlangganan karena mau pindah alamat""",hallo siang berhenti berlangganan pindah alamat,1
+"""Mau tau cara ganti password wifi gimana ya?""",tau ganti password internet gimana,1
+"""daftar biznet hom e""",daftar biznet hom e,1
+"""Cara ganti password mandiri gimana?""",ganti password mandiri gimana,1
+"""apakah modem biznet support 6G?""",modem biznet support g,2
+"""Oke lalu kalok modem saya los merah saya harus apa ?""",oke kalok modem los merah,2
+"""ara Mempercepat Jaringan WiFi Biznet""",ara mempercepat jaringan internet biznet,2
+"""Min internet dirumah indikator LOS nya merah, kenapa ya?""",internet dirumah indikator los merah,2
+"""Rekomendasi perangkat tambahan untuk memperluas jangkauan wifi apakah ada?""",rekomendasi perangkat tambahan memperluas jangkauan internet,2
+"""saya ada kendala internet dilokasi tidak bisa digunakan dan ada loss merah""",kendala internet dilokasi los merah,2
+"""halo internet saya down sejak semalam""",halo internet down semalam,2
+"""saya beli modem waktu itu dan tidak ada penjelasan kontrak""",beli modem penjelasan kontrak,2
+"""Biznet Home, internet DOWN""",biznet home internet down,2
+"""estimasi perbaikan kendala area sampai kapan?""",estimasi perbaikan kendala area,2
+"""apakah ada pengeblokan port internet untuk layanan Biznet ?""",pengeblokan port internet layanan biznet,2
+"""Internet saya lambat bandwidthnya tidak sesuai""",internet lambat bandwidthnya sesuai,2
+"""bagaimana cara lihat jumlah perangkat yang terhubung ke modem saya?""",lihat perangkat terhubung modem,2
+"""Berapa jarak jangkauan signal wifi 2,4 Ghz?""",jarak jangkauan signal internet ghz,2
+"""kenapa wifi 5G saya suka tidak terdetect?""",internet g suka terdetect,2
+"""Kendala internet slow, gimana nih""",kendala internet slow gimana,2
+"""kenapa koneksi internet saya putus nyambung?""",koneksi internet putus nyambung,2
+"""Indikator modem huwawei saya berwarna merah""",indikator modem huwawei berwarna merah,2
+"""Mau tanya, kalo ini pingnya sesuai ga?""",kalo pingnya sesuai ga,2
+"""Bagaimana cara cek ping dan tracert apabila ada kendala akses website?""",cek ping tracert kendala akses website,2
+"""Internet di lokasi lama buat main mobile legends""",internet lokasi main mobile legends,2
+"""Layanan saya terkendala down, estimasi perbaikannya kapan ya?""",layanan terkendala down estimasi perbaikannya,2
+"""Kalau tidak ada lampu merah LOS, namun lampu PON berkedip, apa yang harus saya lakukan?""",lampu merah los lampu pon berkedip lakukan,2
+"""Bisa dititalin untuk Biznet Home 3D? beli modem""",dititalin biznet home d beli modem,2
+"""apakah jika modem rusak bisa diganti dengan yang baru?""",modem rusak diganti baru,2
+"""pada modem saya lampu merah menyala sejak pagi, bisa dicek?""",modem lampu merah menyala pagi dicek,2
+"""Internet saya sangat lambat, apakah dapat dibantu dioptimalkan?""",internet lambat dibantu dioptimalkan,2
+"""kenapa koneksi saya sering RTO ketika akses beberapa website?""",koneksi rto akses website,2
+"""Apakah Terdapat Garansi pada Perangkat Smart Internet WiFi ?""",garansi perangkat smart internet internet,2
+"""kenapa koneksi internet saya up down?""",koneksi internet up down,2
+"""Apakah dikenakan biaya jika ingin downgrade layanan?""",dikenakan biaya downgrade layanan,2
+"""Internet saya down bisa di bantu cek?""",internet down bantu cek,2
+"""kalo internet lambat gmn ceknya""",kalo internet lambat gmn ceknya,2
+"""internet saya lampu los berkedip, itu kenapa ya?""",internet lampu los berkedip,2
+"""Jika saya melakukan pembelian modem apakah biaya sewa yang selama ini dikenakan akan hilang? dan apa keuntungan yang pelanggan dapatkan dari melakukan pembelian modem?""",pembelian modem biaya sewa dikenakan hilang keuntungan pelanggan dapatkan pembelian modem,2
+"""min kendala ke facebook berikut hasil tracert : Tracing route to facebook.com [31.13.95.35]\nover a maximum of 30 hops:\n\n  1     1 ms    <1 ms    <1 ms  192.168.240.1\n  2     1 ms     2 ms     1 ms  172.16.4.2\n  3     3 ms     5 ms     3 ms  202.169.33.1\n  4     3 ms     3 ms     3 ms  182.253.255.90\n  5     3 ms     6 ms     3 ms  ae0.pr03.cgk1.tfbnw.net [157.240.86.242]\n  6     2 ms     2 ms     2 ms  po203.asw02.cgk1.tfbnw.net [129.134.39.48]\n  7     2 ms     2 ms     3 ms  psw01.cgk1.tfbnw.net [129.134.58.47]\n  8     2 ms     2 ms     2 ms  msw1ag.02.cgk1.tfbnw.net [129.134.91.183]\n  9     2 ms     2 ms     2 ms  edge-star-mini-shv-02-cgk1.facebook.com [31.13.95.35]""",kendala facebook hasil tracert tracing route to facebook com nover a maximum of hops n n ms ms ms n ms ms ms n ms ms ms n ms ms ms n ms ms ms ae pr cgk tfbnw net n ms ms ms po asw cgk tfbnw net n ms ms ms psw cgk tfbnw net n ms ms ms msw ag cgk tfbnw net n ms ms ms edge star mini shv cgk facebook com,2
+"""kenapa koneksi inet saya lemot banget ya?""",koneksi inet lambat banget,2
+"""udah restart msh lemot""",udah restart msh lambat,2
+"""Apakah Biznet menyediakan layanan internet untuk sekolah?""",biznet menyediakan layanan internet sekolah,2
+"""Bisa informasikan bandwidth yang didapatkan apabila berlangganan Home Internet 1D?""",informasikan bandwidth didapatkan berlangganan home internet d,2
+"""apakah jika saat proses pergantian paket layanan melalui Apps MyBiznet  terdapat kendala salah order bisa dicancel?""",proses pergantian paket layanan apps mybiznet kendala salah order dicancel,2
+"""Apakah ada garansi pergantian modem jika terjadi kerusakan jika saya baru melakukan pembelian modem?""",garansi pergantian modem kerusakan baru pembelian modem,2
+"""Kabel fiber saya ada yang putus kak, saya harus gimana ya?""",kabel fiber putus gimana,2
+"""jika router external kami rusak, apakah dapat dibantu dari sisi Biznet?""",router external rusak dibantu sisi biznet,2
+"""Halo internet saya down sejak kemarin bisa di cek""",halo internet down kemarin cek,2
+"""Boleh di bantu kendala internet down""",bantu kendala internet down,2
+"""Saya membutuhkan layanan internet dengan penggunaan IP Static apakah Biznet menyediakan?""",membutuhkan layanan internet penggunaan ip static biznet menyediakan,2
+"""Apakah biznet menyediakan wifi portable?""",biznet menyediakan internet portable,2
+"""ow gitu coy, kalo masih lambat gimana""",ow gitu coy kalo lambat gimana,2
+"""bagaimana cara membatasi penggunaan koneksi di modem biznet""",membatasi penggunaan koneksi modem biznet,2
+"""lampu modem loss merah""",lampu modem los merah,2
+"""kenapa sih jaringan saya suka terputus sambung?""",sih jaringan suka terputus sambung,2
+"""Halo internet saya down bisa di cek?""",halo internet down cek,2
+"""apakah biznet menyediakan modem wireless?""",biznet menyediakan modem wireless,2
+"""Apakah kabel indihome lama bisa di pakai untuk kabel internet?""",kabel indihome pakai kabel internet,2
+"""Kalau Saya mendapatkan Ping tinggi karena lambat apakah bisa dilakukan visit langsung?""",ping lambat visit langsung,2
+"""lambat banget main ayodance""",lambat banget main ayodance,2
+"""ngga bisa kirim email pakai internet biznet""",ngtidak kirim email pakai internet biznet,2
+"""garansi untuk perangkat Biznet WiFi Fiber Modem""",garansi perangkat biznet internet fiber modem,2
+"""Internet saya ga gacor nih lambat mulu""",internet ga gacor lambat mulu,2
+"""Lokasi desa ketumping udah kofer blm""",lokasi desa ketumping udah kofer blm,2
+"""Mengapa layanan biznet Home sering terjadi kendala area?""",layanan biznet home kendala area,2
+"""bisa dicek ID pelanggan ini 1000308564 los merah menyala?""",dicek id pelanggan los merah menyala,2
+"""Cara Mengatasi WiFi Biznet Lemot""",mengatasi internet biznet lambat,2
+"""Bisa informasikan bandwidth yang diterima Home Internet 1D?""",informasikan bandwidth diterima home internet d,2
+"""bagaimana cek ping dan tracert aplikasi di android?""",cek ping tracert aplikasi android,2
+"""Cara memblokir pengguna wifi gimana""",memblokir pengguna internet gimana,2
+"""jika kabel modem saya putus karna digigit tikus apakah perbaikannya akan berbayar?""",kabel modem putus karna digigit tikus perbaikannya berbayar,2
+"""Saya gapunya laptop, bisa tolong ping ke google.com?""",gapunya laptop ping google com,2
+"""Biznet ada layanan free wifi di tempat umum ga?""",biznet layanan free internet ga,2
+"""apakah ada kompensasi jika koneksi internet biznet terputus berhari-hari?""",kompensasi koneksi internet biznet terputus berhari,2
+"""Apakah bisa downgrade layanan dari Biznet Metronet ke Biznet Home?""",downgrade layanan biznet metronet biznet home,2
+"""Di modem saya ada los merah nih, harus ngapain ya?""",modem los merah ngapain,2
+"""Kalo beli modem beraps""",kalo beli modem beraps,2
+"""internet lambat sekali, ada saran mengatasinya?""",internet lambat saran mengatasinya,2
+"""Biznet Smart Internet WiFi""",biznet smart internet internet,2
+"""apakah akan dikenakan denda jika ada keterlambatan pembayaran""",dikenakan denda keterlambatan pembayaran,2
+"""Perbedaan wifi 5 dan wifi 6 modem ?""",perbedaan internet internet modem,2
+"""kenapa jaringan saya suka up down dalam beberapa hari terakhir?""",jaringan suka up down,2
+"""apakah biznet ada kompensasi jika internet saya mati berhari2?""",biznet kompensasi internet mati berhari,2
+"""Internet Saya Down loss merah""",internet down los merah,2
+"""Kalau karena internet lambat apakah ada penalty untuk terminasi?""",internet lambat penalty terminasi,2
+"""kalo internet saya sering lamabt knp?""",kalo internet lamabt knp,2
+"""CCTV saya tidak berfungsi dengan koneksi biznet sementara koneksi lain tidak ada kendala.""",cctv berfungsi koneksi biznet koneksi kendala,2
+"""Saya ada kendala login ke app Biznet sudah ganti password ngak bisa masuk2""",kendala login app biznet ganti password ntidak masuk,2
+"""Untuk layanan internet dan TV d biznet apaan aja?""",layanan internet tv d biznet aja,2
+"""los merah menyala sejak pagi""",los merah menyala pagi,2
+"""Apakah layanan Biznet Home upload dan downloadnya simetris""",layanan biznet home upload downloadnya simetris,2
+"""Internet saya down sejak semalam bisa di bantu?""",internet down semalam bantu,2
+"""total setelah ppn dan beli modem""",total ppn beli modem,2
+"""Internet saya terputus putus tiap malam""",internet terputus putus malam,2
+"""Apakah modem Biznet sudah support wifi 6 ?""",modem biznet support internet,2
+"""Jangkauan sinyal wifi biznet optimalnya berapa?""",jangkauan sinyal internet biznet optimalnya,2
+"""Saya mau yang layanan Home internet 1D""",layanan home internet d,2
+"""Internet saya up and down""",internet up and down,2
+"""Min Biznet ada perangkat buat memperluas jangkauan Wifi engga?""",biznet perangkat memperluas jangkauan internet engga,2
+"""Cara download aplikasi my biznet dimana""",download aplikasi my biznet dimana,2
+"""iya kendala bayar, karena uangnya belum ada, gimana nih bot""",iya kendala bayar uangnya gimana bot,2
+"""min sewa sama beli modem bedanya apa""",sewa beli modem bedanya,2
+"""kendala jaringan internet modem los merah""",kendala jaringan internet modem los merah,2
+"""Kenapa speed upload dan download jaringan internet biznet saya tidak simetris?""",speed upload download jaringan internet biznet simetris,2
+"""Kendala internet loss merah""",kendala internet los merah,2
+"""Berikan alasan keapa kunjungan visit saya melebihi estimasi 1x24 jam atas kendala internet down?""",alasan keapa kunjungan visit melebihi estimasi x jam kendala internet down,2
+"""Kalau ada kabel yang terputus, berapa lama tim teknisi akan datang melakukan perbaikan?""",kabel terputus tim teknisi perbaikan,2
+"""Internet saya untuk bermain game genshin impact ping tinggi, apakah ada solusi?""",internet bermain game genshin impact ping solusi,2
+"""apakah kita dapat masuk ke pengaturan modem pribadi?""",masuk pengaturan modem pribadi,2
+"""Jika saya tetap menggunakan modem dengan skema, dan terjadi kerusakan pada modem, apakah bisa dilakukan perbaikan atau pergantian untuk modemnya?""",modem skema kerusakan modem perbaikan pergantian modemnya,2
+"""Layanan internet saya lambat, boleh diinformasikan penyebab dan solusinya?""",layanan internet lambat diinformasikan penyebab solusinya,2
+"""Halo internet saya down bisa di bantu cek?""",halo internet down bantu cek,2
+"""Bisa dibantu ping ke google.com?""",dibantu ping google com,2
+"""ini juga koneksi internetnya putus nyambung""",koneksi internetnya putus nyambung,2
+"""koneksi dirumah saya lemot yah""",koneksi dirumah lambat yah,2
+"""Ada garansi untuk perangkat *TP-Link Deco M4 Smart Internet Mesh WiFi* setelah pembelian ga""",garansi perangkat tp link deco m smart internet mesh internet pembelian ga,2
+"""Estimasi kendala internet down untuk kunjungan berapa lama?""",estimasi kendala internet down kunjungan,2
+"""Cara Mempercepat Jaringan WiFi Biznet""",mempercepat jaringan internet biznet,2
+"""internet saya slow pas beut nich. ads yang bisa tangani gk kawan?""",internet slow pas beut nich ads tangani gk kawan,2
+"""Min tolong kirimkan teknisi kelokasi, modem saya LOS""",kirimkan teknisi kelokasi modem los,2
+"""layanan saya Biznet 3D, saat akses game cukup lambat, namun akses youtube normal, ada solusinya ga?""",layanan biznet d akses game lambat akses youtube normal solusinya ga,2
+"""Siang, saya Ganjar saya mau berlangganan layanan internet dan TV untuk dirumah saya. Di Biznet ini layanannya apa saja ya?""",siang ganjar berlangganan layanan internet tv dirumah biznet layanannya,2
+"""saya dan tetangga saya internetnya biznetnya mati, itu kenapa ya?""",tetangga internetnya biznetnya mati,2
